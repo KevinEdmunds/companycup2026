@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="F1 Strategist" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="za.companycup.Main" />
+    <module name="f1-level1-strategist" />
+    <option name="PROGRAM_PARAMETERS" value="C:\Development\companycup2026\java\src\main\resources\level\1.txt C:\Development\companycup2026\java\out\submission.txt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
