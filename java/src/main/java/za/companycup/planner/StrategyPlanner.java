@@ -10,6 +10,8 @@ import java.util.Map;
 
 public final class StrategyPlanner {
     private static final double GRAVITY = 9.8;
+    private static final double K_BASE = 0.0005;       // l/m base fuel consumption
+    private static final double K_DRAG = 0.0000000015; // l/m drag fuel consumption
 
     private StrategyPlanner() {
     }
@@ -22,7 +24,13 @@ public final class StrategyPlanner {
         Map<Integer, Double> safeCornerSpeeds = buildSafeCornerSpeedMap(input, submission.initialTyreId);
         double[] requiredCornerEntrySpeedByIndex = buildRequiredCornerEntryByIndex(segments, safeCornerSpeeds);
 
+        // Pre-simulate a steady-state lap to get a conservative (slightly high) fuel estimate.
+        // Used only to decide WHICH laps to pit — refuel amounts are computed from actual fuel state.
+        double fuelPerLapEstimate = estimateFuelPerLap(input, segments, requiredCornerEntrySpeedByIndex);
+        java.util.Set<Integer> pitLapNumbers = planPitLaps(input, fuelPerLapEstimate);
+
         double lapStartSpeed = 0.0;
+        double fuel = input.car.initialFuel;   // track actual fuel during generation
 
         for (int lap = 1; lap <= input.race.laps; lap++) {
             OutputModels.LapPlan lapPlan = new OutputModels.LapPlan();
@@ -50,24 +58,126 @@ public final class StrategyPlanner {
                             input.car.maxSpeed
                     );
                     action.targetSpeed = round2(straightPlan.targetSpeed);
-                    action.brakeStartBeforeNext = (int) Math.ceil(Math.max(0.0, straightPlan.brakeDistance));
+                    action.brakeStartBeforeNext = Math.max(0.0, straightPlan.brakeDistance);
+
+                    // Track actual fuel for this straight (accel + cruise + brake phases)
+                    double accelDist = accelDistance(entrySpeed, straightPlan.targetSpeed, input.car.accel);
+                    double brakeDist = brakeDistance(straightPlan.targetSpeed, straightPlan.exitSpeed, input.car.brake);
+                    double cruiseDist = Math.max(0.0, segment.length - accelDist - brakeDist);
+                    fuel -= fuelUsed(entrySpeed, straightPlan.targetSpeed, accelDist);
+                    fuel -= fuelUsed(straightPlan.targetSpeed, straightPlan.targetSpeed, cruiseDist);
+                    fuel -= fuelUsed(straightPlan.targetSpeed, straightPlan.exitSpeed, brakeDist);
+
                     entrySpeed = straightPlan.exitSpeed;
                 } else {
-                    entrySpeed = Math.min(entrySpeed, requiredCornerEntrySpeedByIndex[i]);
+                    double cornerSpeed = Math.min(entrySpeed, requiredCornerEntrySpeedByIndex[i]);
+                    fuel -= fuelUsed(cornerSpeed, cornerSpeed, segment.length);
+                    entrySpeed = cornerSpeed;
                 }
 
                 lapPlan.segments.add(action);
             }
 
+            // Determine if we need to pit this lap (planned OR fuel critically low)
+            boolean shouldPit = pitLapNumbers.contains(lap) || (fuel < fuelPerLapEstimate && lap < input.race.laps);
+
             OutputModels.Pit pit = new OutputModels.Pit();
-            pit.enter = false;
+            if (shouldPit && lap < input.race.laps) {
+                int lapsRemaining = input.race.laps - lap;
+                // Refuel just enough for remaining laps (based on actual fuel now), capped by tank
+                double fuelNeeded = fuelPerLapEstimate * lapsRemaining;
+                double refuelAmount = Math.max(0.0,
+                        Math.min(fuelNeeded - fuel, input.car.fuelTankCapacity - fuel));
+                if (refuelAmount > 0.0) {
+                    pit.enter = true;
+                    pit.fuelRefuelAmount = round2(refuelAmount);
+                    fuel += refuelAmount;
+                    lapStartSpeed = input.race.pitExitSpeed;
+                } else {
+                    pit.enter = false;
+                    lapStartSpeed = entrySpeed;
+                }
+            } else {
+                pit.enter = false;
+                lapStartSpeed = entrySpeed;
+            }
             lapPlan.pit = pit;
             submission.laps.add(lapPlan);
-
-            lapStartSpeed = entrySpeed;
         }
 
         return submission;
+    }
+
+    // -----------------------------------------------------------------------
+    // Fuel helpers
+    // -----------------------------------------------------------------------
+
+    /**
+     * Simulate a lap starting from rest to estimate fuel consumption.
+     * Intentionally conservative (slightly overestimates) to trigger pits early enough.
+     */
+    private static double estimateFuelPerLap(InputModels.LevelInput input,
+                                             List<InputModels.Segment> segments,
+                                             double[] requiredCornerEntry) {
+        double fuel = 0.0;
+        double entrySpeed = 0.0;
+
+        for (int i = 0; i < segments.size(); i++) {
+            InputModels.Segment segment = segments.get(i);
+            InputModels.Segment next = segments.get((i + 1) % segments.size());
+
+            if (isStraight(segment)) {
+                double desiredExit = isCorner(next)
+                        ? requiredCornerEntry[(i + 1) % segments.size()]
+                        : input.car.maxSpeed;
+                StraightPlan sp = buildStraightPlan(
+                        entrySpeed, desiredExit, segment.length,
+                        input.car.accel, input.car.brake, input.car.maxSpeed);
+
+                double accelDist = accelDistance(entrySpeed, sp.targetSpeed, input.car.accel);
+                double brakeDist = brakeDistance(sp.targetSpeed, sp.exitSpeed, input.car.brake);
+                double cruiseDist = Math.max(0.0, segment.length - accelDist - brakeDist);
+
+                fuel += fuelUsed(entrySpeed, sp.targetSpeed, accelDist);
+                fuel += fuelUsed(sp.targetSpeed, sp.targetSpeed, cruiseDist);
+                fuel += fuelUsed(sp.targetSpeed, sp.exitSpeed, brakeDist);
+                entrySpeed = sp.exitSpeed;
+            } else {
+                double cornerSpeed = Math.min(entrySpeed, requiredCornerEntry[i]);
+                fuel += fuelUsed(cornerSpeed, cornerSpeed, segment.length);
+                entrySpeed = cornerSpeed;
+            }
+        }
+        return fuel;
+    }
+
+    /** Fuel formula: F = (K_base + K_drag * avg_v²) * distance */
+    private static double fuelUsed(double vi, double vf, double distance) {
+        if (distance <= 0.0) return 0.0;
+        double avgSpeed = (vi + vf) / 2.0;
+        return (K_BASE + K_DRAG * avgSpeed * avgSpeed) * distance;
+    }
+
+    /**
+     * Return the set of lap numbers where we should enter the pits.
+     * Uses the conservative fuelPerLap estimate so we never run dry.
+     */
+    private static java.util.Set<Integer> planPitLaps(InputModels.LevelInput input, double fuelPerLap) {
+        java.util.Set<Integer> pitLaps = new java.util.LinkedHashSet<>();
+        int totalLaps = input.race.laps;
+        double tankCapacity = input.car.fuelTankCapacity;
+        double fuel = input.car.initialFuel;
+
+        for (int lap = 1; lap <= totalLaps; lap++) {
+            fuel -= fuelPerLap;
+            // Pit if we won't have enough for the next lap and there are laps remaining
+            if (fuel < fuelPerLap && lap < totalLaps) {
+                pitLaps.add(lap);
+                // Simulate refuel to full (conservative — actual may differ)
+                fuel = tankCapacity;
+            }
+        }
+        return pitLaps;
     }
 
     private static double[] buildRequiredCornerEntryByIndex(List<InputModels.Segment> segments,
@@ -165,13 +275,6 @@ public final class StrategyPlanner {
         };
     }
 
-    private static boolean dryLikeCondition(InputModels.LevelInput input) {
-        if (input.weather == null || input.weather.conditions == null || input.weather.conditions.isEmpty()) {
-            return true;
-        }
-        String condition = input.weather.conditions.get(0).condition;
-        return condition != null && condition.toLowerCase(Locale.ROOT).contains("dry");
-    }
 
     private static StraightPlan buildStraightPlan(double entrySpeed,
                                                   double desiredExit,

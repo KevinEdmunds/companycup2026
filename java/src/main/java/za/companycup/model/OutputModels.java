@@ -31,9 +31,10 @@ public final class OutputModels {
         public Double targetSpeed;
 
         @JsonProperty("brake_start_m_before_next")
-        public Integer brakeStartBeforeNext;
+        public Double brakeStartBeforeNext;
     }
 
+    @JsonInclude(JsonInclude.Include.NON_NULL)
     public static class Pit {
         public boolean enter;
         @JsonProperty("tyre_change_set_id")

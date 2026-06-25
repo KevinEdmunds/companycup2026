@@ -1,0 +1,5980 @@
+Initial tyre: 		SOFT
+Lap: 1
+================================================================================
+	Lap 1 Segment: [1] straight
+		entry speed				0
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.366574895505
+		fuel remaining: 		149.633425104495
+		segment time:  			15.32992254669114	total time: 		15.32992254669114
+
+
+	Lap 1 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		149.57821903401498
+		segment time:  			3.1126247464028642	total time: 		18.442547293094005
+
+
+	Lap 1 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		149.3399861754901
+		segment time:  			9.86199263261662	total time: 		28.304539925710625
+
+
+	Lap 1 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		149.26978947185012
+		segment time:  			4.574372053292323	total time: 		32.87891197900295
+
+
+	Lap 1 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		149.22215599438013
+		segment time:  			3.1040381790197906	total time: 		35.98295015802274
+
+
+	Lap 1 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		148.86524392755896
+		segment time:  			12.613867150667698	total time: 		48.59681730869043
+
+
+	Lap 1 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		148.80002068453896
+		segment time:  			3.842126976221247	total time: 		52.43894428491168
+
+
+	Lap 1 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		148.73981461405896
+		segment time:  			3.546578747281151	total time: 		55.98552303219283
+
+
+	Lap 1 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		148.37567410667313
+		segment time:  			9.752477477731365	total time: 		65.73800050992419
+
+
+	Lap 1 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		148.05633885082312
+		segment time:  			9.81494828183648	total time: 		75.55294879176067
+
+
+	Lap 1 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		147.98110467982312
+		segment time:  			4.649603963600852	total time: 		80.20255275536152
+
+
+	Lap 1 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		147.93094856582312
+		segment time:  			3.0997359757339016	total time: 		83.30228873109543
+
+
+	Lap 1 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		147.67747609545347
+		segment time:  			10.083243970491479	total time: 		93.38553270158691
+
+
+	Lap 1 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		147.61472241020348
+		segment time:  			3.398310369064896	total time: 		96.78384307065181
+
+
+	Lap 1 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		147.27258649137934
+		segment time:  			11.894044663613826	total time: 		108.67788773426564
+
+
+	Lap 1 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		147.20234607581935
+		segment time:  			4.137675205161343	total time: 		112.81556293942698
+
+
+	Lap 1 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		147.14464859160935
+		segment time:  			3.398804632811103	total time: 		116.21436757223809
+
+
+	Lap 1 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		146.77214878370086
+		segment time:  			12.460564266897553	total time: 		128.67493183913564
+
+
+	Lap 1 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		146.70433265285087
+		segment time:  			3.4167471650532892	total time: 		132.09167900418893
+
+
+	Lap 1 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		146.43664561930711
+		segment time:  			10.023873902801293	total time: 		142.11555290699022
+
+
+	Lap 1 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		146.37642081514713
+		segment time:  			3.395590632439488	total time: 		145.5111435394297
+
+
+	Lap 1 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		146.04671512210268
+		segment time:  			11.298167452345158	total time: 		156.80931099177485
+
+
+	Lap 1 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		145.97383030109268
+		segment time:  			3.44721400368489	total time: 		160.25652499545973
+
+
+	Lap 1 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		145.67825445039693
+		segment time:  			10.647148555317798	total time: 		170.9036735507775
+
+
+	Lap 1 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		145.62559053069694
+		segment time:  			3.2547227745205967	total time: 		174.1583963252981
+
+
+Lap: 2
+================================================================================
+	Lap 2 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		145.25714435533257
+		segment time:  			12.682041332586325	total time: 		186.84043765788442
+
+
+	Lap 2 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		145.20193828485256
+		segment time:  			3.1126247464028642	total time: 		189.9530624042873
+
+
+	Lap 2 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		144.9637054263277
+		segment time:  			9.86199263261662	total time: 		199.8150550369039
+
+
+	Lap 2 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		144.8935087226877
+		segment time:  			4.574372053292323	total time: 		204.38942709019625
+
+
+	Lap 2 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		144.8458752452177
+		segment time:  			3.1040381790197906	total time: 		207.49346526921605
+
+
+	Lap 2 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		144.48896317839655
+		segment time:  			12.613867150667698	total time: 		220.10733241988373
+
+
+	Lap 2 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		144.42373993537655
+		segment time:  			3.842126976221247	total time: 		223.94945939610497
+
+
+	Lap 2 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		144.36353386489654
+		segment time:  			3.546578747281151	total time: 		227.49603814338613
+
+
+	Lap 2 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		143.9993933575107
+		segment time:  			9.752477477731365	total time: 		237.2485156211175
+
+
+	Lap 2 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		143.6800581016607
+		segment time:  			9.81494828183648	total time: 		247.06346390295397
+
+
+	Lap 2 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		143.6048239306607
+		segment time:  			4.649603963600852	total time: 		251.7130678665548
+
+
+	Lap 2 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		143.5546678166607
+		segment time:  			3.0997359757339016	total time: 		254.8128038422887
+
+
+	Lap 2 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		143.30119534629105
+		segment time:  			10.083243970491479	total time: 		264.8960478127802
+
+
+	Lap 2 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		143.23844166104107
+		segment time:  			3.398310369064896	total time: 		268.2943581818451
+
+
+	Lap 2 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		142.89630574221692
+		segment time:  			11.894044663613826	total time: 		280.18840284545894
+
+
+	Lap 2 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		142.82606532665693
+		segment time:  			4.137675205161343	total time: 		284.32607805062025
+
+
+	Lap 2 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		142.76836784244693
+		segment time:  			3.398804632811103	total time: 		287.72488268343136
+
+
+	Lap 2 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		142.39586803453844
+		segment time:  			12.460564266897553	total time: 		300.1854469503289
+
+
+	Lap 2 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		142.32805190368845
+		segment time:  			3.4167471650532892	total time: 		303.6021941153822
+
+
+	Lap 2 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		142.0603648701447
+		segment time:  			10.023873902801293	total time: 		313.6260680181835
+
+
+	Lap 2 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		142.0001400659847
+		segment time:  			3.395590632439488	total time: 		317.021658650623
+
+
+	Lap 2 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		141.67043437294026
+		segment time:  			11.298167452345158	total time: 		328.3198261029682
+
+
+	Lap 2 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		141.59754955193026
+		segment time:  			3.44721400368489	total time: 		331.7670401066531
+
+
+	Lap 2 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		141.30197370123452
+		segment time:  			10.647148555317798	total time: 		342.4141886619709
+
+
+	Lap 2 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		141.24930978153452
+		segment time:  			3.2547227745205967	total time: 		345.6689114364915
+
+
+Lap: 3
+================================================================================
+	Lap 3 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		140.88086360617015
+		segment time:  			12.682041332586325	total time: 		358.3509527690778
+
+
+	Lap 3 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		140.82565753569014
+		segment time:  			3.1126247464028642	total time: 		361.46357751548067
+
+
+	Lap 3 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		140.58742467716527
+		segment time:  			9.86199263261662	total time: 		371.3255701480973
+
+
+	Lap 3 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		140.51722797352528
+		segment time:  			4.574372053292323	total time: 		375.89994220138965
+
+
+	Lap 3 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		140.4695944960553
+		segment time:  			3.1040381790197906	total time: 		379.0039803804094
+
+
+	Lap 3 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		140.11268242923413
+		segment time:  			12.613867150667698	total time: 		391.61784753107713
+
+
+	Lap 3 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		140.04745918621413
+		segment time:  			3.842126976221247	total time: 		395.4599745072984
+
+
+	Lap 3 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		139.98725311573412
+		segment time:  			3.546578747281151	total time: 		399.00655325457956
+
+
+	Lap 3 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		139.6231126083483
+		segment time:  			9.752477477731365	total time: 		408.7590307323109
+
+
+	Lap 3 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		139.3037773524983
+		segment time:  			9.81494828183648	total time: 		418.5739790141474
+
+
+	Lap 3 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		139.22854318149828
+		segment time:  			4.649603963600852	total time: 		423.22358297774826
+
+
+	Lap 3 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		139.17838706749828
+		segment time:  			3.0997359757339016	total time: 		426.32331895348216
+
+
+	Lap 3 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		138.92491459712863
+		segment time:  			10.083243970491479	total time: 		436.40656292397364
+
+
+	Lap 3 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		138.86216091187865
+		segment time:  			3.398310369064896	total time: 		439.80487329303855
+
+
+	Lap 3 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		138.5200249930545
+		segment time:  			11.894044663613826	total time: 		451.6989179566524
+
+
+	Lap 3 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		138.4497845774945
+		segment time:  			4.137675205161343	total time: 		455.8365931618137
+
+
+	Lap 3 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		138.39208709328452
+		segment time:  			3.398804632811103	total time: 		459.2353977946248
+
+
+	Lap 3 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		138.01958728537602
+		segment time:  			12.460564266897553	total time: 		471.6959620615224
+
+
+	Lap 3 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		137.95177115452603
+		segment time:  			3.4167471650532892	total time: 		475.11270922657565
+
+
+	Lap 3 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		137.68408412098228
+		segment time:  			10.023873902801293	total time: 		485.13658312937696
+
+
+	Lap 3 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		137.6238593168223
+		segment time:  			3.395590632439488	total time: 		488.53217376181647
+
+
+	Lap 3 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		137.29415362377785
+		segment time:  			11.298167452345158	total time: 		499.83034121416165
+
+
+	Lap 3 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		137.22126880276784
+		segment time:  			3.44721400368489	total time: 		503.27755521784655
+
+
+	Lap 3 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		136.9256929520721
+		segment time:  			10.647148555317798	total time: 		513.9247037731643
+
+
+	Lap 3 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		136.8730290323721
+		segment time:  			3.2547227745205967	total time: 		517.1794265476849
+
+
+Lap: 4
+================================================================================
+	Lap 4 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		136.50458285700773
+		segment time:  			12.682041332586325	total time: 		529.8614678802712
+
+
+	Lap 4 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		136.44937678652772
+		segment time:  			3.1126247464028642	total time: 		532.9740926266741
+
+
+	Lap 4 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		136.21114392800285
+		segment time:  			9.86199263261662	total time: 		542.8360852592907
+
+
+	Lap 4 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		136.14094722436286
+		segment time:  			4.574372053292323	total time: 		547.410457312583
+
+
+	Lap 4 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		136.09331374689287
+		segment time:  			3.1040381790197906	total time: 		550.5144954916028
+
+
+	Lap 4 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		135.7364016800717
+		segment time:  			12.613867150667698	total time: 		563.1283626422705
+
+
+	Lap 4 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		135.6711784370517
+		segment time:  			3.842126976221247	total time: 		566.9704896184918
+
+
+	Lap 4 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		135.6109723665717
+		segment time:  			3.546578747281151	total time: 		570.517068365773
+
+
+	Lap 4 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		135.24683185918587
+		segment time:  			9.752477477731365	total time: 		580.2695458435044
+
+
+	Lap 4 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		134.92749660333587
+		segment time:  			9.81494828183648	total time: 		590.0844941253408
+
+
+	Lap 4 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		134.85226243233586
+		segment time:  			4.649603963600852	total time: 		594.7340980889417
+
+
+	Lap 4 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		134.80210631833586
+		segment time:  			3.0997359757339016	total time: 		597.8338340646756
+
+
+	Lap 4 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		134.54863384796622
+		segment time:  			10.083243970491479	total time: 		607.917078035167
+
+
+	Lap 4 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		134.48588016271623
+		segment time:  			3.398310369064896	total time: 		611.315388404232
+
+
+	Lap 4 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		134.1437442438921
+		segment time:  			11.894044663613826	total time: 		623.2094330678458
+
+
+	Lap 4 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		134.0735038283321
+		segment time:  			4.137675205161343	total time: 		627.3471082730072
+
+
+	Lap 4 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		134.0158063441221
+		segment time:  			3.398804632811103	total time: 		630.7459129058183
+
+
+	Lap 4 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		133.6433065362136
+		segment time:  			12.460564266897553	total time: 		643.2064771727158
+
+
+	Lap 4 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		133.5754904053636
+		segment time:  			3.4167471650532892	total time: 		646.6232243377691
+
+
+	Lap 4 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		133.30780337181986
+		segment time:  			10.023873902801293	total time: 		656.6470982405704
+
+
+	Lap 4 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		133.24757856765987
+		segment time:  			3.395590632439488	total time: 		660.0426888730099
+
+
+	Lap 4 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		132.91787287461543
+		segment time:  			11.298167452345158	total time: 		671.340856325355
+
+
+	Lap 4 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		132.84498805360542
+		segment time:  			3.44721400368489	total time: 		674.7880703290399
+
+
+	Lap 4 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		132.54941220290968
+		segment time:  			10.647148555317798	total time: 		685.4352188843577
+
+
+	Lap 4 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		132.49674828320968
+		segment time:  			3.2547227745205967	total time: 		688.6899416588783
+
+
+Lap: 5
+================================================================================
+	Lap 5 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		132.12830210784531
+		segment time:  			12.682041332586325	total time: 		701.3719829914646
+
+
+	Lap 5 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		132.0730960373653
+		segment time:  			3.1126247464028642	total time: 		704.4846077378675
+
+
+	Lap 5 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		131.83486317884044
+		segment time:  			9.86199263261662	total time: 		714.3466003704841
+
+
+	Lap 5 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		131.76466647520044
+		segment time:  			4.574372053292323	total time: 		718.9209724237764
+
+
+	Lap 5 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		131.71703299773046
+		segment time:  			3.1040381790197906	total time: 		722.0250106027962
+
+
+	Lap 5 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		131.3601209309093
+		segment time:  			12.613867150667698	total time: 		734.6388777534639
+
+
+	Lap 5 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		131.2948976878893
+		segment time:  			3.842126976221247	total time: 		738.4810047296852
+
+
+	Lap 5 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		131.23469161740928
+		segment time:  			3.546578747281151	total time: 		742.0275834769664
+
+
+	Lap 5 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		130.87055111002346
+		segment time:  			9.752477477731365	total time: 		751.7800609546978
+
+
+	Lap 5 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		130.55121585417345
+		segment time:  			9.81494828183648	total time: 		761.5950092365342
+
+
+	Lap 5 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		130.47598168317344
+		segment time:  			4.649603963600852	total time: 		766.2446132001351
+
+
+	Lap 5 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		130.42582556917344
+		segment time:  			3.0997359757339016	total time: 		769.344349175869
+
+
+	Lap 5 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		130.1723530988038
+		segment time:  			10.083243970491479	total time: 		779.4275931463604
+
+
+	Lap 5 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		130.1095994135538
+		segment time:  			3.398310369064896	total time: 		782.8259035154254
+
+
+	Lap 5 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		129.76746349472967
+		segment time:  			11.894044663613826	total time: 		794.7199481790392
+
+
+	Lap 5 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		129.69722307916967
+		segment time:  			4.137675205161343	total time: 		798.8576233842006
+
+
+	Lap 5 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		129.63952559495968
+		segment time:  			3.398804632811103	total time: 		802.2564280170117
+
+
+	Lap 5 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		129.26702578705118
+		segment time:  			12.460564266897553	total time: 		814.7169922839092
+
+
+	Lap 5 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		129.1992096562012
+		segment time:  			3.4167471650532892	total time: 		818.1337394489625
+
+
+	Lap 5 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		128.93152262265744
+		segment time:  			10.023873902801293	total time: 		828.1576133517638
+
+
+	Lap 5 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		128.87129781849745
+		segment time:  			3.395590632439488	total time: 		831.5532039842033
+
+
+	Lap 5 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		128.541592125453
+		segment time:  			11.298167452345158	total time: 		842.8513714365484
+
+
+	Lap 5 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		128.468707304443
+		segment time:  			3.44721400368489	total time: 		846.2985854402333
+
+
+	Lap 5 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		128.17313145374726
+		segment time:  			10.647148555317798	total time: 		856.9457339955511
+
+
+	Lap 5 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		128.12046753404726
+		segment time:  			3.2547227745205967	total time: 		860.2004567700717
+
+
+Lap: 6
+================================================================================
+	Lap 6 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		127.7520213586829
+		segment time:  			12.682041332586325	total time: 		872.882498102658
+
+
+	Lap 6 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		127.6968152882029
+		segment time:  			3.1126247464028642	total time: 		875.9951228490609
+
+
+	Lap 6 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		127.45858242967803
+		segment time:  			9.86199263261662	total time: 		885.8571154816775
+
+
+	Lap 6 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		127.38838572603804
+		segment time:  			4.574372053292323	total time: 		890.4314875349698
+
+
+	Lap 6 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		127.34075224856804
+		segment time:  			3.1040381790197906	total time: 		893.5355257139896
+
+
+	Lap 6 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		126.98384018174687
+		segment time:  			12.613867150667698	total time: 		906.1493928646573
+
+
+	Lap 6 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		126.91861693872687
+		segment time:  			3.842126976221247	total time: 		909.9915198408786
+
+
+	Lap 6 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		126.85841086824686
+		segment time:  			3.546578747281151	total time: 		913.5380985881598
+
+
+	Lap 6 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		126.49427036086104
+		segment time:  			9.752477477731365	total time: 		923.2905760658912
+
+
+	Lap 6 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		126.17493510501103
+		segment time:  			9.81494828183648	total time: 		933.1055243477276
+
+
+	Lap 6 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		126.09970093401103
+		segment time:  			4.649603963600852	total time: 		937.7551283113285
+
+
+	Lap 6 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		126.04954482001102
+		segment time:  			3.0997359757339016	total time: 		940.8548642870624
+
+
+	Lap 6 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		125.79607234964136
+		segment time:  			10.083243970491479	total time: 		950.9381082575538
+
+
+	Lap 6 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		125.73331866439136
+		segment time:  			3.398310369064896	total time: 		954.3364186266188
+
+
+	Lap 6 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		125.39118274556724
+		segment time:  			11.894044663613826	total time: 		966.2304632902326
+
+
+	Lap 6 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		125.32094233000724
+		segment time:  			4.137675205161343	total time: 		970.368138495394
+
+
+	Lap 6 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		125.26324484579725
+		segment time:  			3.398804632811103	total time: 		973.7669431282051
+
+
+	Lap 6 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		124.89074503788875
+		segment time:  			12.460564266897553	total time: 		986.2275073951026
+
+
+	Lap 6 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		124.82292890703874
+		segment time:  			3.4167471650532892	total time: 		989.6442545601559
+
+
+	Lap 6 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		124.55524187349499
+		segment time:  			10.023873902801293	total time: 		999.6681284629572
+
+
+	Lap 6 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		124.49501706933499
+		segment time:  			3.395590632439488	total time: 		1003.0637190953967
+
+
+	Lap 6 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		124.16531137629053
+		segment time:  			11.298167452345158	total time: 		1014.3618865477418
+
+
+	Lap 6 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		124.09242655528053
+		segment time:  			3.44721400368489	total time: 		1017.8091005514267
+
+
+	Lap 6 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		123.7968507045848
+		segment time:  			10.647148555317798	total time: 		1028.4562491067445
+
+
+	Lap 6 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		123.7441867848848
+		segment time:  			3.2547227745205967	total time: 		1031.710971881265
+
+
+Lap: 7
+================================================================================
+	Lap 7 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		123.37574060952043
+		segment time:  			12.682041332586325	total time: 		1044.3930132138514
+
+
+	Lap 7 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		123.32053453904044
+		segment time:  			3.1126247464028642	total time: 		1047.5056379602543
+
+
+	Lap 7 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		123.08230168051557
+		segment time:  			9.86199263261662	total time: 		1057.367630592871
+
+
+	Lap 7 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		123.01210497687558
+		segment time:  			4.574372053292323	total time: 		1061.9420026461632
+
+
+	Lap 7 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		122.96447149940558
+		segment time:  			3.1040381790197906	total time: 		1065.0460408251831
+
+
+	Lap 7 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		122.60755943258441
+		segment time:  			12.613867150667698	total time: 		1077.6599079758507
+
+
+	Lap 7 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		122.54233618956441
+		segment time:  			3.842126976221247	total time: 		1081.5020349520719
+
+
+	Lap 7 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		122.4821301190844
+		segment time:  			3.546578747281151	total time: 		1085.048613699353
+
+
+	Lap 7 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		122.11798961169858
+		segment time:  			9.752477477731365	total time: 		1094.8010911770843
+
+
+	Lap 7 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		121.79865435584857
+		segment time:  			9.81494828183648	total time: 		1104.6160394589208
+
+
+	Lap 7 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		121.72342018484856
+		segment time:  			4.649603963600852	total time: 		1109.2656434225216
+
+
+	Lap 7 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		121.67326407084856
+		segment time:  			3.0997359757339016	total time: 		1112.3653793982555
+
+
+	Lap 7 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		121.4197916004789
+		segment time:  			10.083243970491479	total time: 		1122.448623368747
+
+
+	Lap 7 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		121.3570379152289
+		segment time:  			3.398310369064896	total time: 		1125.8469337378117
+
+
+	Lap 7 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		121.01490199640477
+		segment time:  			11.894044663613826	total time: 		1137.7409784014255
+
+
+	Lap 7 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		120.94466158084478
+		segment time:  			4.137675205161343	total time: 		1141.8786536065868
+
+
+	Lap 7 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		120.88696409663478
+		segment time:  			3.398804632811103	total time: 		1145.277458239398
+
+
+	Lap 7 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		120.51446428872629
+		segment time:  			12.460564266897553	total time: 		1157.7380225062955
+
+
+	Lap 7 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		120.44664815787628
+		segment time:  			3.4167471650532892	total time: 		1161.1547696713487
+
+
+	Lap 7 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		120.17896112433253
+		segment time:  			10.023873902801293	total time: 		1171.17864357415
+
+
+	Lap 7 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		120.11873632017253
+		segment time:  			3.395590632439488	total time: 		1174.5742342065896
+
+
+	Lap 7 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		119.78903062712807
+		segment time:  			11.298167452345158	total time: 		1185.8724016589347
+
+
+	Lap 7 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		119.71614580611806
+		segment time:  			3.44721400368489	total time: 		1189.3196156626195
+
+
+	Lap 7 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		119.42056995542234
+		segment time:  			10.647148555317798	total time: 		1199.9667642179372
+
+
+	Lap 7 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		119.36790603572234
+		segment time:  			3.2547227745205967	total time: 		1203.2214869924578
+
+
+Lap: 8
+================================================================================
+	Lap 8 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		118.99945986035797
+		segment time:  			12.682041332586325	total time: 		1215.9035283250441
+
+
+	Lap 8 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		118.94425378987798
+		segment time:  			3.1126247464028642	total time: 		1219.016153071447
+
+
+	Lap 8 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		118.70602093135311
+		segment time:  			9.86199263261662	total time: 		1228.8781457040636
+
+
+	Lap 8 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		118.63582422771312
+		segment time:  			4.574372053292323	total time: 		1233.452517757356
+
+
+	Lap 8 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		118.58819075024311
+		segment time:  			3.1040381790197906	total time: 		1236.5565559363758
+
+
+	Lap 8 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		118.23127868342195
+		segment time:  			12.613867150667698	total time: 		1249.1704230870434
+
+
+	Lap 8 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		118.16605544040195
+		segment time:  			3.842126976221247	total time: 		1253.0125500632646
+
+
+	Lap 8 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		118.10584936992194
+		segment time:  			3.546578747281151	total time: 		1256.5591288105456
+
+
+	Lap 8 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		117.74170886253611
+		segment time:  			9.752477477731365	total time: 		1266.311606288277
+
+
+	Lap 8 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		117.42237360668611
+		segment time:  			9.81494828183648	total time: 		1276.1265545701135
+
+
+	Lap 8 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		117.3471394356861
+		segment time:  			4.649603963600852	total time: 		1280.7761585337144
+
+
+	Lap 8 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		117.2969833216861
+		segment time:  			3.0997359757339016	total time: 		1283.8758945094482
+
+
+	Lap 8 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		117.04351085131644
+		segment time:  			10.083243970491479	total time: 		1293.9591384799396
+
+
+	Lap 8 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		116.98075716606644
+		segment time:  			3.398310369064896	total time: 		1297.3574488490044
+
+
+	Lap 8 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		116.63862124724231
+		segment time:  			11.894044663613826	total time: 		1309.2514935126183
+
+
+	Lap 8 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		116.56838083168232
+		segment time:  			4.137675205161343	total time: 		1313.3891687177795
+
+
+	Lap 8 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		116.51068334747232
+		segment time:  			3.398804632811103	total time: 		1316.7879733505906
+
+
+	Lap 8 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		116.13818353956383
+		segment time:  			12.460564266897553	total time: 		1329.2485376174882
+
+
+	Lap 8 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		116.07036740871382
+		segment time:  			3.4167471650532892	total time: 		1332.6652847825414
+
+
+	Lap 8 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		115.80268037517007
+		segment time:  			10.023873902801293	total time: 		1342.6891586853428
+
+
+	Lap 8 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		115.74245557101007
+		segment time:  			3.395590632439488	total time: 		1346.0847493177823
+
+
+	Lap 8 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		115.41274987796561
+		segment time:  			11.298167452345158	total time: 		1357.3829167701274
+
+
+	Lap 8 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		115.3398650569556
+		segment time:  			3.44721400368489	total time: 		1360.8301307738122
+
+
+	Lap 8 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		115.04428920625988
+		segment time:  			10.647148555317798	total time: 		1371.47727932913
+
+
+	Lap 8 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		114.99162528655988
+		segment time:  			3.2547227745205967	total time: 		1374.7320021036505
+
+
+Lap: 9
+================================================================================
+	Lap 9 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		114.62317911119551
+		segment time:  			12.682041332586325	total time: 		1387.4140434362369
+
+
+	Lap 9 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		114.56797304071551
+		segment time:  			3.1126247464028642	total time: 		1390.5266681826397
+
+
+	Lap 9 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		114.32974018219065
+		segment time:  			9.86199263261662	total time: 		1400.3886608152563
+
+
+	Lap 9 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		114.25954347855065
+		segment time:  			4.574372053292323	total time: 		1404.9630328685487
+
+
+	Lap 9 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		114.21191000108065
+		segment time:  			3.1040381790197906	total time: 		1408.0670710475686
+
+
+	Lap 9 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		113.85499793425949
+		segment time:  			12.613867150667698	total time: 		1420.6809381982362
+
+
+	Lap 9 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		113.78977469123949
+		segment time:  			3.842126976221247	total time: 		1424.5230651744573
+
+
+	Lap 9 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		113.72956862075948
+		segment time:  			3.546578747281151	total time: 		1428.0696439217384
+
+
+	Lap 9 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		113.36542811337365
+		segment time:  			9.752477477731365	total time: 		1437.8221213994698
+
+
+	Lap 9 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		113.04609285752365
+		segment time:  			9.81494828183648	total time: 		1447.6370696813062
+
+
+	Lap 9 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		112.97085868652364
+		segment time:  			4.649603963600852	total time: 		1452.286673644907
+
+
+	Lap 9 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		112.92070257252364
+		segment time:  			3.0997359757339016	total time: 		1455.386409620641
+
+
+	Lap 9 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		112.66723010215398
+		segment time:  			10.083243970491479	total time: 		1465.4696535911323
+
+
+	Lap 9 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		112.60447641690398
+		segment time:  			3.398310369064896	total time: 		1468.8679639601971
+
+
+	Lap 9 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		112.26234049807985
+		segment time:  			11.894044663613826	total time: 		1480.762008623811
+
+
+	Lap 9 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		112.19210008251986
+		segment time:  			4.137675205161343	total time: 		1484.8996838289722
+
+
+	Lap 9 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		112.13440259830986
+		segment time:  			3.398804632811103	total time: 		1488.2984884617833
+
+
+	Lap 9 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		111.76190279040136
+		segment time:  			12.460564266897553	total time: 		1500.759052728681
+
+
+	Lap 9 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		111.69408665955136
+		segment time:  			3.4167471650532892	total time: 		1504.1757998937342
+
+
+	Lap 9 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		111.42639962600761
+		segment time:  			10.023873902801293	total time: 		1514.1996737965355
+
+
+	Lap 9 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		111.36617482184761
+		segment time:  			3.395590632439488	total time: 		1517.595264428975
+
+
+	Lap 9 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		111.03646912880315
+		segment time:  			11.298167452345158	total time: 		1528.89343188132
+
+
+	Lap 9 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		110.96358430779314
+		segment time:  			3.44721400368489	total time: 		1532.340645885005
+
+
+	Lap 9 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		110.66800845709741
+		segment time:  			10.647148555317798	total time: 		1542.9877944403227
+
+
+	Lap 9 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		110.61534453739742
+		segment time:  			3.2547227745205967	total time: 		1546.2425172148432
+
+
+Lap: 10
+================================================================================
+	Lap 10 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		110.24689836203305
+		segment time:  			12.682041332586325	total time: 		1558.9245585474296
+
+
+	Lap 10 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		110.19169229155305
+		segment time:  			3.1126247464028642	total time: 		1562.0371832938324
+
+
+	Lap 10 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		109.95345943302819
+		segment time:  			9.86199263261662	total time: 		1571.899175926449
+
+
+	Lap 10 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		109.88326272938819
+		segment time:  			4.574372053292323	total time: 		1576.4735479797414
+
+
+	Lap 10 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		109.83562925191819
+		segment time:  			3.1040381790197906	total time: 		1579.5775861587613
+
+
+	Lap 10 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		109.47871718509703
+		segment time:  			12.613867150667698	total time: 		1592.1914533094289
+
+
+	Lap 10 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		109.41349394207703
+		segment time:  			3.842126976221247	total time: 		1596.03358028565
+
+
+	Lap 10 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		109.35328787159702
+		segment time:  			3.546578747281151	total time: 		1599.580159032931
+
+
+	Lap 10 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		108.98914736421119
+		segment time:  			9.752477477731365	total time: 		1609.3326365106625
+
+
+	Lap 10 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		108.66981210836119
+		segment time:  			9.81494828183648	total time: 		1619.147584792499
+
+
+	Lap 10 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		108.59457793736118
+		segment time:  			4.649603963600852	total time: 		1623.7971887560998
+
+
+	Lap 10 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		108.54442182336118
+		segment time:  			3.0997359757339016	total time: 		1626.8969247318337
+
+
+	Lap 10 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		108.29094935299152
+		segment time:  			10.083243970491479	total time: 		1636.980168702325
+
+
+	Lap 10 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		108.22819566774152
+		segment time:  			3.398310369064896	total time: 		1640.3784790713898
+
+
+	Lap 10 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		107.88605974891739
+		segment time:  			11.894044663613826	total time: 		1652.2725237350037
+
+
+	Lap 10 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		107.8158193333574
+		segment time:  			4.137675205161343	total time: 		1656.410198940165
+
+
+	Lap 10 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		107.7581218491474
+		segment time:  			3.398804632811103	total time: 		1659.809003572976
+
+
+	Lap 10 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		107.3856220412389
+		segment time:  			12.460564266897553	total time: 		1672.2695678398736
+
+
+	Lap 10 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		107.3178059103889
+		segment time:  			3.4167471650532892	total time: 		1675.6863150049269
+
+
+	Lap 10 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		107.05011887684515
+		segment time:  			10.023873902801293	total time: 		1685.7101889077283
+
+
+	Lap 10 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		106.98989407268515
+		segment time:  			3.395590632439488	total time: 		1689.1057795401678
+
+
+	Lap 10 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		106.66018837964069
+		segment time:  			11.298167452345158	total time: 		1700.4039469925128
+
+
+	Lap 10 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		106.58730355863068
+		segment time:  			3.44721400368489	total time: 		1703.8511609961977
+
+
+	Lap 10 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		106.29172770793495
+		segment time:  			10.647148555317798	total time: 		1714.4983095515154
+
+
+	Lap 10 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		106.23906378823496
+		segment time:  			3.2547227745205967	total time: 		1717.753032326036
+
+
+Lap: 11
+================================================================================
+	Lap 11 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		105.87061761287059
+		segment time:  			12.682041332586325	total time: 		1730.4350736586223
+
+
+	Lap 11 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		105.81541154239059
+		segment time:  			3.1126247464028642	total time: 		1733.5476984050251
+
+
+	Lap 11 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		105.57717868386572
+		segment time:  			9.86199263261662	total time: 		1743.4096910376418
+
+
+	Lap 11 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		105.50698198022573
+		segment time:  			4.574372053292323	total time: 		1747.9840630909341
+
+
+	Lap 11 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		105.45934850275573
+		segment time:  			3.1040381790197906	total time: 		1751.088101269954
+
+
+	Lap 11 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		105.10243643593456
+		segment time:  			12.613867150667698	total time: 		1763.7019684206216
+
+
+	Lap 11 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		105.03721319291456
+		segment time:  			3.842126976221247	total time: 		1767.5440953968427
+
+
+	Lap 11 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		104.97700712243456
+		segment time:  			3.546578747281151	total time: 		1771.0906741441238
+
+
+	Lap 11 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		104.61286661504873
+		segment time:  			9.752477477731365	total time: 		1780.8431516218552
+
+
+	Lap 11 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		104.29353135919872
+		segment time:  			9.81494828183648	total time: 		1790.6580999036917
+
+
+	Lap 11 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		104.21829718819872
+		segment time:  			4.649603963600852	total time: 		1795.3077038672925
+
+
+	Lap 11 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		104.16814107419872
+		segment time:  			3.0997359757339016	total time: 		1798.4074398430264
+
+
+	Lap 11 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		103.91466860382906
+		segment time:  			10.083243970491479	total time: 		1808.4906838135178
+
+
+	Lap 11 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		103.85191491857906
+		segment time:  			3.398310369064896	total time: 		1811.8889941825826
+
+
+	Lap 11 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		103.50977899975493
+		segment time:  			11.894044663613826	total time: 		1823.7830388461964
+
+
+	Lap 11 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		103.43953858419493
+		segment time:  			4.137675205161343	total time: 		1827.9207140513577
+
+
+	Lap 11 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		103.38184109998494
+		segment time:  			3.398804632811103	total time: 		1831.3195186841688
+
+
+	Lap 11 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		103.00934129207644
+		segment time:  			12.460564266897553	total time: 		1843.7800829510663
+
+
+	Lap 11 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		102.94152516122644
+		segment time:  			3.4167471650532892	total time: 		1847.1968301161196
+
+
+	Lap 11 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		102.67383812768269
+		segment time:  			10.023873902801293	total time: 		1857.220704018921
+
+
+	Lap 11 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		102.61361332352269
+		segment time:  			3.395590632439488	total time: 		1860.6162946513605
+
+
+	Lap 11 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		102.28390763047823
+		segment time:  			11.298167452345158	total time: 		1871.9144621037055
+
+
+	Lap 11 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		102.21102280946822
+		segment time:  			3.44721400368489	total time: 		1875.3616761073904
+
+
+	Lap 11 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		101.91544695877249
+		segment time:  			10.647148555317798	total time: 		1886.008824662708
+
+
+	Lap 11 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		101.8627830390725
+		segment time:  			3.2547227745205967	total time: 		1889.2635474372287
+
+
+Lap: 12
+================================================================================
+	Lap 12 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		101.49433686370813
+		segment time:  			12.682041332586325	total time: 		1901.945588769815
+
+
+	Lap 12 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		101.43913079322813
+		segment time:  			3.1126247464028642	total time: 		1905.0582135162178
+
+
+	Lap 12 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		101.20089793470326
+		segment time:  			9.86199263261662	total time: 		1914.9202061488345
+
+
+	Lap 12 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		101.13070123106327
+		segment time:  			4.574372053292323	total time: 		1919.4945782021268
+
+
+	Lap 12 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		101.08306775359327
+		segment time:  			3.1040381790197906	total time: 		1922.5986163811467
+
+
+	Lap 12 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		100.7261556867721
+		segment time:  			12.613867150667698	total time: 		1935.2124835318143
+
+
+	Lap 12 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		100.6609324437521
+		segment time:  			3.842126976221247	total time: 		1939.0546105080355
+
+
+	Lap 12 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		100.6007263732721
+		segment time:  			3.546578747281151	total time: 		1942.6011892553165
+
+
+	Lap 12 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		100.23658586588627
+		segment time:  			9.752477477731365	total time: 		1952.353666733048
+
+
+	Lap 12 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		99.91725061003626
+		segment time:  			9.81494828183648	total time: 		1962.1686150148844
+
+
+	Lap 12 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		99.84201643903626
+		segment time:  			4.649603963600852	total time: 		1966.8182189784852
+
+
+	Lap 12 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		99.79186032503625
+		segment time:  			3.0997359757339016	total time: 		1969.917954954219
+
+
+	Lap 12 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		99.5383878546666
+		segment time:  			10.083243970491479	total time: 		1980.0011989247105
+
+
+	Lap 12 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		99.4756341694166
+		segment time:  			3.398310369064896	total time: 		1983.3995092937753
+
+
+	Lap 12 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		99.13349825059247
+		segment time:  			11.894044663613826	total time: 		1995.2935539573891
+
+
+	Lap 12 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		99.06325783503247
+		segment time:  			4.137675205161343	total time: 		1999.4312291625504
+
+
+	Lap 12 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		99.00556035082248
+		segment time:  			3.398804632811103	total time: 		2002.8300337953615
+
+
+	Lap 12 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		98.63306054291398
+		segment time:  			12.460564266897553	total time: 		2015.290598062259
+
+
+	Lap 12 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		98.56524441206398
+		segment time:  			3.4167471650532892	total time: 		2018.7073452273123
+
+
+	Lap 12 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		98.29755737852022
+		segment time:  			10.023873902801293	total time: 		2028.7312191301137
+
+
+	Lap 12 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		98.23733257436022
+		segment time:  			3.395590632439488	total time: 		2032.1268097625532
+
+
+	Lap 12 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		97.90762688131576
+		segment time:  			11.298167452345158	total time: 		2043.4249772148983
+
+
+	Lap 12 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		97.83474206030576
+		segment time:  			3.44721400368489	total time: 		2046.872191218583
+
+
+	Lap 12 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		97.53916620961003
+		segment time:  			10.647148555317798	total time: 		2057.519339773901
+
+
+	Lap 12 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		97.48650228991004
+		segment time:  			3.2547227745205967	total time: 		2060.7740625484216
+
+
+Lap: 13
+================================================================================
+	Lap 13 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		97.11805611454567
+		segment time:  			12.682041332586325	total time: 		2073.456103881008
+
+
+	Lap 13 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		97.06285004406567
+		segment time:  			3.1126247464028642	total time: 		2076.568728627411
+
+
+	Lap 13 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		96.8246171855408
+		segment time:  			9.86199263261662	total time: 		2086.4307212600274
+
+
+	Lap 13 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		96.75442048190081
+		segment time:  			4.574372053292323	total time: 		2091.00509331332
+
+
+	Lap 13 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		96.70678700443081
+		segment time:  			3.1040381790197906	total time: 		2094.1091314923397
+
+
+	Lap 13 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		96.34987493760964
+		segment time:  			12.613867150667698	total time: 		2106.7229986430075
+
+
+	Lap 13 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		96.28465169458964
+		segment time:  			3.842126976221247	total time: 		2110.5651256192286
+
+
+	Lap 13 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		96.22444562410963
+		segment time:  			3.546578747281151	total time: 		2114.11170436651
+
+
+	Lap 13 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		95.86030511672381
+		segment time:  			9.752477477731365	total time: 		2123.864181844241
+
+
+	Lap 13 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		95.5409698608738
+		segment time:  			9.81494828183648	total time: 		2133.679130126078
+
+
+	Lap 13 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		95.4657356898738
+		segment time:  			4.649603963600852	total time: 		2138.3287340896786
+
+
+	Lap 13 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		95.41557957587379
+		segment time:  			3.0997359757339016	total time: 		2141.4284700654125
+
+
+	Lap 13 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		95.16210710550413
+		segment time:  			10.083243970491479	total time: 		2151.511714035904
+
+
+	Lap 13 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		95.09935342025413
+		segment time:  			3.398310369064896	total time: 		2154.9100244049687
+
+
+	Lap 13 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		94.75721750143
+		segment time:  			11.894044663613826	total time: 		2166.8040690685825
+
+
+	Lap 13 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		94.68697708587001
+		segment time:  			4.137675205161343	total time: 		2170.941744273744
+
+
+	Lap 13 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		94.62927960166002
+		segment time:  			3.398804632811103	total time: 		2174.340548906555
+
+
+	Lap 13 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		94.25677979375152
+		segment time:  			12.460564266897553	total time: 		2186.8011131734524
+
+
+	Lap 13 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		94.18896366290151
+		segment time:  			3.4167471650532892	total time: 		2190.217860338506
+
+
+	Lap 13 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		93.92127662935776
+		segment time:  			10.023873902801293	total time: 		2200.2417342413073
+
+
+	Lap 13 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		93.86105182519776
+		segment time:  			3.395590632439488	total time: 		2203.637324873747
+
+
+	Lap 13 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		93.5313461321533
+		segment time:  			11.298167452345158	total time: 		2214.935492326092
+
+
+	Lap 13 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		93.4584613111433
+		segment time:  			3.44721400368489	total time: 		2218.382706329777
+
+
+	Lap 13 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		93.16288546044757
+		segment time:  			10.647148555317798	total time: 		2229.029854885095
+
+
+	Lap 13 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		93.11022154074757
+		segment time:  			3.2547227745205967	total time: 		2232.284577659616
+
+
+Lap: 14
+================================================================================
+	Lap 14 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		92.7417753653832
+		segment time:  			12.682041332586325	total time: 		2244.9666189922023
+
+
+	Lap 14 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		92.68656929490321
+		segment time:  			3.1126247464028642	total time: 		2248.0792437386053
+
+
+	Lap 14 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		92.44833643637834
+		segment time:  			9.86199263261662	total time: 		2257.9412363712217
+
+
+	Lap 14 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		92.37813973273835
+		segment time:  			4.574372053292323	total time: 		2262.515608424514
+
+
+	Lap 14 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		92.33050625526835
+		segment time:  			3.1040381790197906	total time: 		2265.619646603534
+
+
+	Lap 14 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		91.97359418844718
+		segment time:  			12.613867150667698	total time: 		2278.233513754202
+
+
+	Lap 14 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		91.90837094542718
+		segment time:  			3.842126976221247	total time: 		2282.075640730423
+
+
+	Lap 14 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		91.84816487494717
+		segment time:  			3.546578747281151	total time: 		2285.622219477704
+
+
+	Lap 14 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		91.48402436756135
+		segment time:  			9.752477477731365	total time: 		2295.3746969554354
+
+
+	Lap 14 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		91.16468911171134
+		segment time:  			9.81494828183648	total time: 		2305.189645237272
+
+
+	Lap 14 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		91.08945494071133
+		segment time:  			4.649603963600852	total time: 		2309.839249200873
+
+
+	Lap 14 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		91.03929882671133
+		segment time:  			3.0997359757339016	total time: 		2312.938985176607
+
+
+	Lap 14 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		90.78582635634167
+		segment time:  			10.083243970491479	total time: 		2323.022229147098
+
+
+	Lap 14 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		90.72307267109167
+		segment time:  			3.398310369064896	total time: 		2326.420539516163
+
+
+	Lap 14 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		90.38093675226754
+		segment time:  			11.894044663613826	total time: 		2338.314584179777
+
+
+	Lap 14 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		90.31069633670755
+		segment time:  			4.137675205161343	total time: 		2342.4522593849383
+
+
+	Lap 14 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		90.25299885249756
+		segment time:  			3.398804632811103	total time: 		2345.851064017749
+
+
+	Lap 14 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		89.88049904458906
+		segment time:  			12.460564266897553	total time: 		2358.3116282846468
+
+
+	Lap 14 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		89.81268291373905
+		segment time:  			3.4167471650532892	total time: 		2361.7283754497003
+
+
+	Lap 14 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		89.5449958801953
+		segment time:  			10.023873902801293	total time: 		2371.7522493525016
+
+
+	Lap 14 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		89.4847710760353
+		segment time:  			3.395590632439488	total time: 		2375.147839984941
+
+
+	Lap 14 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		89.15506538299084
+		segment time:  			11.298167452345158	total time: 		2386.4460074372864
+
+
+	Lap 14 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		89.08218056198083
+		segment time:  			3.44721400368489	total time: 		2389.8932214409715
+
+
+	Lap 14 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		88.78660471128511
+		segment time:  			10.647148555317798	total time: 		2400.5403699962894
+
+
+	Lap 14 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		88.73394079158511
+		segment time:  			3.2547227745205967	total time: 		2403.7950927708102
+
+
+Lap: 15
+================================================================================
+	Lap 15 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		88.36549461622074
+		segment time:  			12.682041332586325	total time: 		2416.4771341033966
+
+
+	Lap 15 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		88.31028854574075
+		segment time:  			3.1126247464028642	total time: 		2419.5897588497996
+
+
+	Lap 15 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		88.07205568721588
+		segment time:  			9.86199263261662	total time: 		2429.451751482416
+
+
+	Lap 15 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		88.00185898357589
+		segment time:  			4.574372053292323	total time: 		2434.0261235357084
+
+
+	Lap 15 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		87.95422550610589
+		segment time:  			3.1040381790197906	total time: 		2437.1301617147283
+
+
+	Lap 15 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		87.59731343928472
+		segment time:  			12.613867150667698	total time: 		2449.744028865396
+
+
+	Lap 15 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		87.53209019626472
+		segment time:  			3.842126976221247	total time: 		2453.5861558416173
+
+
+	Lap 15 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		87.47188412578471
+		segment time:  			3.546578747281151	total time: 		2457.1327345888985
+
+
+	Lap 15 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		87.10774361839889
+		segment time:  			9.752477477731365	total time: 		2466.8852120666297
+
+
+	Lap 15 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		86.78840836254888
+		segment time:  			9.81494828183648	total time: 		2476.7001603484664
+
+
+	Lap 15 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		86.71317419154887
+		segment time:  			4.649603963600852	total time: 		2481.3497643120672
+
+
+	Lap 15 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		86.66301807754887
+		segment time:  			3.0997359757339016	total time: 		2484.449500287801
+
+
+	Lap 15 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		86.40954560717921
+		segment time:  			10.083243970491479	total time: 		2494.5327442582925
+
+
+	Lap 15 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		86.34679192192921
+		segment time:  			3.398310369064896	total time: 		2497.9310546273573
+
+
+	Lap 15 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		86.00465600310508
+		segment time:  			11.894044663613826	total time: 		2509.825099290971
+
+
+	Lap 15 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		85.93441558754509
+		segment time:  			4.137675205161343	total time: 		2513.9627744961326
+
+
+	Lap 15 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		85.8767181033351
+		segment time:  			3.398804632811103	total time: 		2517.3615791289435
+
+
+	Lap 15 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		85.5042182954266
+		segment time:  			12.460564266897553	total time: 		2529.822143395841
+
+
+	Lap 15 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		85.43640216457659
+		segment time:  			3.4167471650532892	total time: 		2533.2388905608946
+
+
+	Lap 15 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		85.16871513103284
+		segment time:  			10.023873902801293	total time: 		2543.262764463696
+
+
+	Lap 15 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		85.10849032687284
+		segment time:  			3.395590632439488	total time: 		2546.6583550961354
+
+
+	Lap 15 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		84.77878463382838
+		segment time:  			11.298167452345158	total time: 		2557.9565225484807
+
+
+	Lap 15 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		84.70589981281837
+		segment time:  			3.44721400368489	total time: 		2561.403736552166
+
+
+	Lap 15 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		84.41032396212265
+		segment time:  			10.647148555317798	total time: 		2572.0508851074837
+
+
+	Lap 15 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		84.35766004242265
+		segment time:  			3.2547227745205967	total time: 		2575.3056078820046
+
+
+Lap: 16
+================================================================================
+	Lap 16 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		83.98921386705828
+		segment time:  			12.682041332586325	total time: 		2587.987649214591
+
+
+	Lap 16 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		83.93400779657829
+		segment time:  			3.1126247464028642	total time: 		2591.100273960994
+
+
+	Lap 16 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		83.69577493805342
+		segment time:  			9.86199263261662	total time: 		2600.9622665936104
+
+
+	Lap 16 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		83.62557823441342
+		segment time:  			4.574372053292323	total time: 		2605.5366386469027
+
+
+	Lap 16 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		83.57794475694342
+		segment time:  			3.1040381790197906	total time: 		2608.6406768259226
+
+
+	Lap 16 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		83.22103269012226
+		segment time:  			12.613867150667698	total time: 		2621.2545439765904
+
+
+	Lap 16 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		83.15580944710226
+		segment time:  			3.842126976221247	total time: 		2625.0966709528116
+
+
+	Lap 16 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		83.09560337662225
+		segment time:  			3.546578747281151	total time: 		2628.643249700093
+
+
+	Lap 16 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		82.73146286923642
+		segment time:  			9.752477477731365	total time: 		2638.395727177824
+
+
+	Lap 16 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		82.41212761338642
+		segment time:  			9.81494828183648	total time: 		2648.2106754596607
+
+
+	Lap 16 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		82.33689344238641
+		segment time:  			4.649603963600852	total time: 		2652.8602794232615
+
+
+	Lap 16 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		82.28673732838641
+		segment time:  			3.0997359757339016	total time: 		2655.9600153989954
+
+
+	Lap 16 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		82.03326485801675
+		segment time:  			10.083243970491479	total time: 		2666.043259369487
+
+
+	Lap 16 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		81.97051117276675
+		segment time:  			3.398310369064896	total time: 		2669.4415697385516
+
+
+	Lap 16 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		81.62837525394262
+		segment time:  			11.894044663613826	total time: 		2681.3356144021654
+
+
+	Lap 16 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		81.55813483838263
+		segment time:  			4.137675205161343	total time: 		2685.473289607327
+
+
+	Lap 16 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		81.50043735417263
+		segment time:  			3.398804632811103	total time: 		2688.872094240138
+
+
+	Lap 16 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		81.12793754626414
+		segment time:  			12.460564266897553	total time: 		2701.3326585070354
+
+
+	Lap 16 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		81.06012141541413
+		segment time:  			3.4167471650532892	total time: 		2704.749405672089
+
+
+	Lap 16 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		80.79243438187038
+		segment time:  			10.023873902801293	total time: 		2714.7732795748902
+
+
+	Lap 16 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		80.73220957771038
+		segment time:  			3.395590632439488	total time: 		2718.1688702073297
+
+
+	Lap 16 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		80.40250388466592
+		segment time:  			11.298167452345158	total time: 		2729.467037659675
+
+
+	Lap 16 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		80.32961906365591
+		segment time:  			3.44721400368489	total time: 		2732.91425166336
+
+
+	Lap 16 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		80.03404321296019
+		segment time:  			10.647148555317798	total time: 		2743.561400218678
+
+
+	Lap 16 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		79.98137929326019
+		segment time:  			3.2547227745205967	total time: 		2746.816122993199
+
+
+Lap: 17
+================================================================================
+	Lap 17 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		79.61293311789582
+		segment time:  			12.682041332586325	total time: 		2759.498164325785
+
+
+	Lap 17 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		79.55772704741582
+		segment time:  			3.1126247464028642	total time: 		2762.6107890721883
+
+
+	Lap 17 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		79.31949418889096
+		segment time:  			9.86199263261662	total time: 		2772.4727817048047
+
+
+	Lap 17 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		79.24929748525096
+		segment time:  			4.574372053292323	total time: 		2777.047153758097
+
+
+	Lap 17 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		79.20166400778096
+		segment time:  			3.1040381790197906	total time: 		2780.151191937117
+
+
+	Lap 17 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		78.8447519409598
+		segment time:  			12.613867150667698	total time: 		2792.7650590877847
+
+
+	Lap 17 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		78.7795286979398
+		segment time:  			3.842126976221247	total time: 		2796.607186064006
+
+
+	Lap 17 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		78.71932262745979
+		segment time:  			3.546578747281151	total time: 		2800.153764811287
+
+
+	Lap 17 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		78.35518212007396
+		segment time:  			9.752477477731365	total time: 		2809.9062422890183
+
+
+	Lap 17 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		78.03584686422396
+		segment time:  			9.81494828183648	total time: 		2819.721190570855
+
+
+	Lap 17 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		77.96061269322395
+		segment time:  			4.649603963600852	total time: 		2824.370794534456
+
+
+	Lap 17 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		77.91045657922395
+		segment time:  			3.0997359757339016	total time: 		2827.4705305101897
+
+
+	Lap 17 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		77.65698410885429
+		segment time:  			10.083243970491479	total time: 		2837.553774480681
+
+
+	Lap 17 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		77.59423042360429
+		segment time:  			3.398310369064896	total time: 		2840.952084849746
+
+
+	Lap 17 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		77.25209450478016
+		segment time:  			11.894044663613826	total time: 		2852.8461295133598
+
+
+	Lap 17 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		77.18185408922017
+		segment time:  			4.137675205161343	total time: 		2856.9838047185212
+
+
+	Lap 17 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		77.12415660501017
+		segment time:  			3.398804632811103	total time: 		2860.382609351332
+
+
+	Lap 17 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		76.75165679710167
+		segment time:  			12.460564266897553	total time: 		2872.8431736182297
+
+
+	Lap 17 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		76.68384066625167
+		segment time:  			3.4167471650532892	total time: 		2876.259920783283
+
+
+	Lap 17 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		76.41615363270792
+		segment time:  			10.023873902801293	total time: 		2886.2837946860845
+
+
+	Lap 17 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		76.35592882854792
+		segment time:  			3.395590632439488	total time: 		2889.679385318524
+
+
+	Lap 17 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		76.02622313550346
+		segment time:  			11.298167452345158	total time: 		2900.9775527708694
+
+
+	Lap 17 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		75.95333831449345
+		segment time:  			3.44721400368489	total time: 		2904.4247667745544
+
+
+	Lap 17 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		75.65776246379772
+		segment time:  			10.647148555317798	total time: 		2915.0719153298724
+
+
+	Lap 17 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		75.60509854409773
+		segment time:  			3.2547227745205967	total time: 		2918.326638104393
+
+
+Lap: 18
+================================================================================
+	Lap 18 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		75.23665236873336
+		segment time:  			12.682041332586325	total time: 		2931.0086794369795
+
+
+	Lap 18 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		75.18144629825336
+		segment time:  			3.1126247464028642	total time: 		2934.1213041833826
+
+
+	Lap 18 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		74.9432134397285
+		segment time:  			9.86199263261662	total time: 		2943.983296815999
+
+
+	Lap 18 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		74.8730167360885
+		segment time:  			4.574372053292323	total time: 		2948.5576688692913
+
+
+	Lap 18 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		74.8253832586185
+		segment time:  			3.1040381790197906	total time: 		2951.661707048311
+
+
+	Lap 18 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		74.46847119179733
+		segment time:  			12.613867150667698	total time: 		2964.275574198979
+
+
+	Lap 18 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		74.40324794877733
+		segment time:  			3.842126976221247	total time: 		2968.1177011752
+
+
+	Lap 18 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		74.34304187829733
+		segment time:  			3.546578747281151	total time: 		2971.6642799224815
+
+
+	Lap 18 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		73.9789013709115
+		segment time:  			9.752477477731365	total time: 		2981.4167574002126
+
+
+	Lap 18 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		73.6595661150615
+		segment time:  			9.81494828183648	total time: 		2991.2317056820493
+
+
+	Lap 18 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		73.58433194406149
+		segment time:  			4.649603963600852	total time: 		2995.88130964565
+
+
+	Lap 18 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		73.53417583006149
+		segment time:  			3.0997359757339016	total time: 		2998.981045621384
+
+
+	Lap 18 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		73.28070335969183
+		segment time:  			10.083243970491479	total time: 		3009.0642895918754
+
+
+	Lap 18 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		73.21794967444183
+		segment time:  			3.398310369064896	total time: 		3012.46259996094
+
+
+	Lap 18 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		72.8758137556177
+		segment time:  			11.894044663613826	total time: 		3024.356644624554
+
+
+	Lap 18 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		72.8055733400577
+		segment time:  			4.137675205161343	total time: 		3028.4943198297156
+
+
+	Lap 18 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		72.74787585584771
+		segment time:  			3.398804632811103	total time: 		3031.8931244625264
+
+
+	Lap 18 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		72.37537604793921
+		segment time:  			12.460564266897553	total time: 		3044.353688729424
+
+
+	Lap 18 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		72.30755991708921
+		segment time:  			3.4167471650532892	total time: 		3047.7704358944775
+
+
+	Lap 18 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		72.03987288354546
+		segment time:  			10.023873902801293	total time: 		3057.794309797279
+
+
+	Lap 18 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		71.97964807938546
+		segment time:  			3.395590632439488	total time: 		3061.1899004297184
+
+
+	Lap 18 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		71.649942386341
+		segment time:  			11.298167452345158	total time: 		3072.4880678820637
+
+
+	Lap 18 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		71.57705756533099
+		segment time:  			3.44721400368489	total time: 		3075.9352818857487
+
+
+	Lap 18 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		71.28148171463526
+		segment time:  			10.647148555317798	total time: 		3086.5824304410667
+
+
+	Lap 18 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		71.22881779493527
+		segment time:  			3.2547227745205967	total time: 		3089.8371532155875
+
+
+Lap: 19
+================================================================================
+	Lap 19 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		70.8603716195709
+		segment time:  			12.682041332586325	total time: 		3102.519194548174
+
+
+	Lap 19 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		70.8051655490909
+		segment time:  			3.1126247464028642	total time: 		3105.631819294577
+
+
+	Lap 19 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		70.56693269056603
+		segment time:  			9.86199263261662	total time: 		3115.4938119271933
+
+
+	Lap 19 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		70.49673598692604
+		segment time:  			4.574372053292323	total time: 		3120.0681839804856
+
+
+	Lap 19 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		70.44910250945604
+		segment time:  			3.1040381790197906	total time: 		3123.1722221595055
+
+
+	Lap 19 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		70.09219044263487
+		segment time:  			12.613867150667698	total time: 		3135.7860893101733
+
+
+	Lap 19 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		70.02696719961487
+		segment time:  			3.842126976221247	total time: 		3139.6282162863945
+
+
+	Lap 19 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		69.96676112913487
+		segment time:  			3.546578747281151	total time: 		3143.1747950336758
+
+
+	Lap 19 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		69.60262062174904
+		segment time:  			9.752477477731365	total time: 		3152.927272511407
+
+
+	Lap 19 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		69.28328536589903
+		segment time:  			9.81494828183648	total time: 		3162.7422207932436
+
+
+	Lap 19 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		69.20805119489903
+		segment time:  			4.649603963600852	total time: 		3167.3918247568445
+
+
+	Lap 19 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		69.15789508089902
+		segment time:  			3.0997359757339016	total time: 		3170.4915607325784
+
+
+	Lap 19 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		68.90442261052937
+		segment time:  			10.083243970491479	total time: 		3180.5748047030697
+
+
+	Lap 19 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		68.84166892527936
+		segment time:  			3.398310369064896	total time: 		3183.9731150721345
+
+
+	Lap 19 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		68.49953300645524
+		segment time:  			11.894044663613826	total time: 		3195.8671597357484
+
+
+	Lap 19 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		68.42929259089524
+		segment time:  			4.137675205161343	total time: 		3200.00483494091
+
+
+	Lap 19 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		68.37159510668525
+		segment time:  			3.398804632811103	total time: 		3203.4036395737207
+
+
+	Lap 19 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		67.99909529877675
+		segment time:  			12.460564266897553	total time: 		3215.8642038406183
+
+
+	Lap 19 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		67.93127916792675
+		segment time:  			3.4167471650532892	total time: 		3219.280951005672
+
+
+	Lap 19 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		67.663592134383
+		segment time:  			10.023873902801293	total time: 		3229.304824908473
+
+
+	Lap 19 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		67.603367330223
+		segment time:  			3.395590632439488	total time: 		3232.7004155409127
+
+
+	Lap 19 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		67.27366163717853
+		segment time:  			11.298167452345158	total time: 		3243.998582993258
+
+
+	Lap 19 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		67.20077681616853
+		segment time:  			3.44721400368489	total time: 		3247.445796996943
+
+
+	Lap 19 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		66.9052009654728
+		segment time:  			10.647148555317798	total time: 		3258.092945552261
+
+
+	Lap 19 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		66.8525370457728
+		segment time:  			3.2547227745205967	total time: 		3261.347668326782
+
+
+Lap: 20
+================================================================================
+	Lap 20 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		66.48409087040844
+		segment time:  			12.682041332586325	total time: 		3274.029709659368
+
+
+	Lap 20 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		66.42888479992844
+		segment time:  			3.1126247464028642	total time: 		3277.142334405771
+
+
+	Lap 20 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		66.19065194140357
+		segment time:  			9.86199263261662	total time: 		3287.0043270383876
+
+
+	Lap 20 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		66.12045523776358
+		segment time:  			4.574372053292323	total time: 		3291.57869909168
+
+
+	Lap 20 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		66.07282176029358
+		segment time:  			3.1040381790197906	total time: 		3294.6827372707
+
+
+	Lap 20 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		65.71590969347241
+		segment time:  			12.613867150667698	total time: 		3307.2966044213676
+
+
+	Lap 20 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		65.65068645045241
+		segment time:  			3.842126976221247	total time: 		3311.138731397589
+
+
+	Lap 20 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		65.5904803799724
+		segment time:  			3.546578747281151	total time: 		3314.68531014487
+
+
+	Lap 20 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		65.22633987258658
+		segment time:  			9.752477477731365	total time: 		3324.4377876226013
+
+
+	Lap 20 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		64.90700461673657
+		segment time:  			9.81494828183648	total time: 		3334.252735904438
+
+
+	Lap 20 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		64.83177044573657
+		segment time:  			4.649603963600852	total time: 		3338.902339868039
+
+
+	Lap 20 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		64.78161433173656
+		segment time:  			3.0997359757339016	total time: 		3342.0020758437727
+
+
+	Lap 20 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		64.5281418613669
+		segment time:  			10.083243970491479	total time: 		3352.085319814264
+
+
+	Lap 20 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		64.4653881761169
+		segment time:  			3.398310369064896	total time: 		3355.483630183329
+
+
+	Lap 20 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		64.12325225729278
+		segment time:  			11.894044663613826	total time: 		3367.3776748469427
+
+
+	Lap 20 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		64.05301184173278
+		segment time:  			4.137675205161343	total time: 		3371.515350052104
+
+
+	Lap 20 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		63.99531435752278
+		segment time:  			3.398804632811103	total time: 		3374.914154684915
+
+
+	Lap 20 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		63.62281454961428
+		segment time:  			12.460564266897553	total time: 		3387.3747189518126
+
+
+	Lap 20 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		63.554998418764285
+		segment time:  			3.4167471650532892	total time: 		3390.791466116866
+
+
+	Lap 20 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		63.287311385220534
+		segment time:  			10.023873902801293	total time: 		3400.8153400196675
+
+
+	Lap 20 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		63.22708658106053
+		segment time:  			3.395590632439488	total time: 		3404.210930652107
+
+
+	Lap 20 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		62.89738088801608
+		segment time:  			11.298167452345158	total time: 		3415.5090981044523
+
+
+	Lap 20 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		62.82449606700608
+		segment time:  			3.44721400368489	total time: 		3418.9563121081374
+
+
+	Lap 20 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		62.528920216310354
+		segment time:  			10.647148555317798	total time: 		3429.6034606634553
+
+
+	Lap 20 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		62.47625629661035
+		segment time:  			3.2547227745205967	total time: 		3432.858183437976
+
+
+Lap: 21
+================================================================================
+	Lap 21 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		62.107810121245976
+		segment time:  			12.682041332586325	total time: 		3445.5402247705624
+
+
+	Lap 21 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		62.05260405076598
+		segment time:  			3.1126247464028642	total time: 		3448.6528495169655
+
+
+	Lap 21 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		61.81437119224111
+		segment time:  			9.86199263261662	total time: 		3458.514842149582
+
+
+	Lap 21 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		61.74417448860111
+		segment time:  			4.574372053292323	total time: 		3463.0892142028742
+
+
+	Lap 21 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		61.69654101113111
+		segment time:  			3.1040381790197906	total time: 		3466.193252381894
+
+
+	Lap 21 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		61.33962894430994
+		segment time:  			12.613867150667698	total time: 		3478.807119532562
+
+
+	Lap 21 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		61.27440570128994
+		segment time:  			3.842126976221247	total time: 		3482.649246508783
+
+
+	Lap 21 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		61.214199630809944
+		segment time:  			3.546578747281151	total time: 		3486.1958252560644
+
+
+	Lap 21 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		60.850059123424124
+		segment time:  			9.752477477731365	total time: 		3495.9483027337956
+
+
+	Lap 21 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		60.530723867574125
+		segment time:  			9.81494828183648	total time: 		3505.7632510156322
+
+
+	Lap 21 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		60.455489696574126
+		segment time:  			4.649603963600852	total time: 		3510.412854979233
+
+
+	Lap 21 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		60.40533358257412
+		segment time:  			3.0997359757339016	total time: 		3513.512590954967
+
+
+	Lap 21 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		60.15186111220447
+		segment time:  			10.083243970491479	total time: 		3523.5958349254583
+
+
+	Lap 21 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		60.08910742695447
+		segment time:  			3.398310369064896	total time: 		3526.994145294523
+
+
+	Lap 21 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		59.74697150813034
+		segment time:  			11.894044663613826	total time: 		3538.888189958137
+
+
+	Lap 21 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		59.67673109257034
+		segment time:  			4.137675205161343	total time: 		3543.0258651632985
+
+
+	Lap 21 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		59.61903360836034
+		segment time:  			3.398804632811103	total time: 		3546.4246697961094
+
+
+	Lap 21 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		59.24653380045184
+		segment time:  			12.460564266897553	total time: 		3558.885234063007
+
+
+	Lap 21 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		59.178717669601845
+		segment time:  			3.4167471650532892	total time: 		3562.3019812280604
+
+
+	Lap 21 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		58.91103063605809
+		segment time:  			10.023873902801293	total time: 		3572.325855130862
+
+
+	Lap 21 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		58.85080583189809
+		segment time:  			3.395590632439488	total time: 		3575.7214457633013
+
+
+	Lap 21 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		58.52110013885364
+		segment time:  			11.298167452345158	total time: 		3587.0196132156466
+
+
+	Lap 21 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		58.44821531784364
+		segment time:  			3.44721400368489	total time: 		3590.4668272193317
+
+
+	Lap 21 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		58.152639467147914
+		segment time:  			10.647148555317798	total time: 		3601.1139757746496
+
+
+	Lap 21 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		58.09997554744791
+		segment time:  			3.2547227745205967	total time: 		3604.3686985491704
+
+
+Lap: 22
+================================================================================
+	Lap 22 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		57.731529372083536
+		segment time:  			12.682041332586325	total time: 		3617.0507398817567
+
+
+	Lap 22 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		57.67632330160354
+		segment time:  			3.1126247464028642	total time: 		3620.16336462816
+
+
+	Lap 22 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		57.43809044307867
+		segment time:  			9.86199263261662	total time: 		3630.025357260776
+
+
+	Lap 22 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		57.36789373943867
+		segment time:  			4.574372053292323	total time: 		3634.5997293140686
+
+
+	Lap 22 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		57.32026026196867
+		segment time:  			3.1040381790197906	total time: 		3637.7037674930884
+
+
+	Lap 22 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		56.9633481951475
+		segment time:  			12.613867150667698	total time: 		3650.3176346437563
+
+
+	Lap 22 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		56.8981249521275
+		segment time:  			3.842126976221247	total time: 		3654.1597616199774
+
+
+	Lap 22 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		56.837918881647504
+		segment time:  			3.546578747281151	total time: 		3657.7063403672587
+
+
+	Lap 22 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		56.473778374261684
+		segment time:  			9.752477477731365	total time: 		3667.45881784499
+
+
+	Lap 22 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		56.154443118411685
+		segment time:  			9.81494828183648	total time: 		3677.2737661268266
+
+
+	Lap 22 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		56.079208947411686
+		segment time:  			4.649603963600852	total time: 		3681.9233700904274
+
+
+	Lap 22 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		56.02905283341168
+		segment time:  			3.0997359757339016	total time: 		3685.0231060661613
+
+
+	Lap 22 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		55.77558036304203
+		segment time:  			10.083243970491479	total time: 		3695.1063500366527
+
+
+	Lap 22 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		55.71282667779203
+		segment time:  			3.398310369064896	total time: 		3698.5046604057175
+
+
+	Lap 22 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		55.3706907589679
+		segment time:  			11.894044663613826	total time: 		3710.3987050693313
+
+
+	Lap 22 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		55.3004503434079
+		segment time:  			4.137675205161343	total time: 		3714.536380274493
+
+
+	Lap 22 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		55.2427528591979
+		segment time:  			3.398804632811103	total time: 		3717.9351849073037
+
+
+	Lap 22 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		54.8702530512894
+		segment time:  			12.460564266897553	total time: 		3730.3957491742012
+
+
+	Lap 22 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		54.802436920439405
+		segment time:  			3.4167471650532892	total time: 		3733.8124963392547
+
+
+	Lap 22 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		54.53474988689565
+		segment time:  			10.023873902801293	total time: 		3743.836370242056
+
+
+	Lap 22 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		54.47452508273565
+		segment time:  			3.395590632439488	total time: 		3747.2319608744956
+
+
+	Lap 22 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		54.1448193896912
+		segment time:  			11.298167452345158	total time: 		3758.530128326841
+
+
+	Lap 22 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		54.0719345686812
+		segment time:  			3.44721400368489	total time: 		3761.977342330526
+
+
+	Lap 22 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		53.776358717985474
+		segment time:  			10.647148555317798	total time: 		3772.624490885844
+
+
+	Lap 22 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		53.72369479828547
+		segment time:  			3.2547227745205967	total time: 		3775.8792136603647
+
+
+Lap: 23
+================================================================================
+	Lap 23 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		53.355248622921096
+		segment time:  			12.682041332586325	total time: 		3788.561254992951
+
+
+	Lap 23 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		53.3000425524411
+		segment time:  			3.1126247464028642	total time: 		3791.673879739354
+
+
+	Lap 23 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		53.06180969391623
+		segment time:  			9.86199263261662	total time: 		3801.5358723719705
+
+
+	Lap 23 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		52.99161299027623
+		segment time:  			4.574372053292323	total time: 		3806.110244425263
+
+
+	Lap 23 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		52.94397951280623
+		segment time:  			3.1040381790197906	total time: 		3809.2142826042827
+
+
+	Lap 23 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		52.58706744598506
+		segment time:  			12.613867150667698	total time: 		3821.8281497549506
+
+
+	Lap 23 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		52.52184420296506
+		segment time:  			3.842126976221247	total time: 		3825.6702767311717
+
+
+	Lap 23 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		52.461638132485064
+		segment time:  			3.546578747281151	total time: 		3829.216855478453
+
+
+	Lap 23 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		52.097497625099244
+		segment time:  			9.752477477731365	total time: 		3838.969332956184
+
+
+	Lap 23 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		51.778162369249245
+		segment time:  			9.81494828183648	total time: 		3848.784281238021
+
+
+	Lap 23 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		51.702928198249246
+		segment time:  			4.649603963600852	total time: 		3853.4338852016217
+
+
+	Lap 23 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		51.65277208424924
+		segment time:  			3.0997359757339016	total time: 		3856.5336211773556
+
+
+	Lap 23 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		51.39929961387959
+		segment time:  			10.083243970491479	total time: 		3866.616865147847
+
+
+	Lap 23 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		51.33654592862959
+		segment time:  			3.398310369064896	total time: 		3870.0151755169118
+
+
+	Lap 23 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		50.99441000980546
+		segment time:  			11.894044663613826	total time: 		3881.9092201805256
+
+
+	Lap 23 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		50.92416959424546
+		segment time:  			4.137675205161343	total time: 		3886.046895385687
+
+
+	Lap 23 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		50.86647211003546
+		segment time:  			3.398804632811103	total time: 		3889.445700018498
+
+
+	Lap 23 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		50.49397230212696
+		segment time:  			12.460564266897553	total time: 		3901.9062642853955
+
+
+	Lap 23 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		50.426156171276965
+		segment time:  			3.4167471650532892	total time: 		3905.323011450449
+
+
+	Lap 23 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		50.15846913773321
+		segment time:  			10.023873902801293	total time: 		3915.3468853532504
+
+
+	Lap 23 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		50.09824433357321
+		segment time:  			3.395590632439488	total time: 		3918.74247598569
+
+
+	Lap 23 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		49.76853864052876
+		segment time:  			11.298167452345158	total time: 		3930.040643438035
+
+
+	Lap 23 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		49.69565381951876
+		segment time:  			3.44721400368489	total time: 		3933.4878574417203
+
+
+	Lap 23 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		49.400077968823034
+		segment time:  			10.647148555317798	total time: 		3944.135005997038
+
+
+	Lap 23 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		49.34741404912303
+		segment time:  			3.2547227745205967	total time: 		3947.389728771559
+
+
+Lap: 24
+================================================================================
+	Lap 24 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		48.978967873758656
+		segment time:  			12.682041332586325	total time: 		3960.0717701041453
+
+
+	Lap 24 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		48.92376180327866
+		segment time:  			3.1126247464028642	total time: 		3963.1843948505484
+
+
+	Lap 24 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		48.68552894475379
+		segment time:  			9.86199263261662	total time: 		3973.046387483165
+
+
+	Lap 24 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		48.61533224111379
+		segment time:  			4.574372053292323	total time: 		3977.620759536457
+
+
+	Lap 24 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		48.56769876364379
+		segment time:  			3.1040381790197906	total time: 		3980.724797715477
+
+
+	Lap 24 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		48.21078669682262
+		segment time:  			12.613867150667698	total time: 		3993.338664866145
+
+
+	Lap 24 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		48.14556345380262
+		segment time:  			3.842126976221247	total time: 		3997.180791842366
+
+
+	Lap 24 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		48.08535738332262
+		segment time:  			3.546578747281151	total time: 		4000.7273705896473
+
+
+	Lap 24 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		47.721216875936804
+		segment time:  			9.752477477731365	total time: 		4010.4798480673785
+
+
+	Lap 24 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		47.401881620086805
+		segment time:  			9.81494828183648	total time: 		4020.294796349215
+
+
+	Lap 24 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		47.326647449086806
+		segment time:  			4.649603963600852	total time: 		4024.944400312816
+
+
+	Lap 24 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		47.2764913350868
+		segment time:  			3.0997359757339016	total time: 		4028.04413628855
+
+
+	Lap 24 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		47.02301886471715
+		segment time:  			10.083243970491479	total time: 		4038.1273802590413
+
+
+	Lap 24 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		46.96026517946715
+		segment time:  			3.398310369064896	total time: 		4041.525690628106
+
+
+	Lap 24 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		46.61812926064302
+		segment time:  			11.894044663613826	total time: 		4053.41973529172
+
+
+	Lap 24 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		46.54788884508302
+		segment time:  			4.137675205161343	total time: 		4057.5574104968814
+
+
+	Lap 24 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		46.49019136087302
+		segment time:  			3.398804632811103	total time: 		4060.9562151296923
+
+
+	Lap 24 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		46.11769155296452
+		segment time:  			12.460564266897553	total time: 		4073.41677939659
+
+
+	Lap 24 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		46.049875422114525
+		segment time:  			3.4167471650532892	total time: 		4076.8335265616433
+
+
+	Lap 24 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		45.78218838857077
+		segment time:  			10.023873902801293	total time: 		4086.8574004644447
+
+
+	Lap 24 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		45.72196358441077
+		segment time:  			3.395590632439488	total time: 		4090.252991096884
+
+
+	Lap 24 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		45.39225789136632
+		segment time:  			11.298167452345158	total time: 		4101.5511585492295
+
+
+	Lap 24 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		45.31937307035632
+		segment time:  			3.44721400368489	total time: 		4104.998372552915
+
+
+	Lap 24 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		45.023797219660594
+		segment time:  			10.647148555317798	total time: 		4115.645521108232
+
+
+	Lap 24 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		44.97113329996059
+		segment time:  			3.2547227745205967	total time: 		4118.900243882753
+
+
+Lap: 25
+================================================================================
+	Lap 25 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		44.602687124596216
+		segment time:  			12.682041332586325	total time: 		4131.58228521534
+
+
+	Lap 25 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		44.54748105411622
+		segment time:  			3.1126247464028642	total time: 		4134.694909961742
+
+
+	Lap 25 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		44.30924819559135
+		segment time:  			9.86199263261662	total time: 		4144.556902594359
+
+
+	Lap 25 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		44.23905149195135
+		segment time:  			4.574372053292323	total time: 		4149.131274647651
+
+
+	Lap 25 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		44.19141801448135
+		segment time:  			3.1040381790197906	total time: 		4152.23531282667
+
+
+	Lap 25 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		43.83450594766018
+		segment time:  			12.613867150667698	total time: 		4164.849179977338
+
+
+	Lap 25 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		43.76928270464018
+		segment time:  			3.842126976221247	total time: 		4168.691306953559
+
+
+	Lap 25 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		43.70907663416018
+		segment time:  			3.546578747281151	total time: 		4172.237885700841
+
+
+	Lap 25 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		43.344936126774364
+		segment time:  			9.752477477731365	total time: 		4181.990363178572
+
+
+	Lap 25 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		43.025600870924364
+		segment time:  			9.81494828183648	total time: 		4191.805311460408
+
+
+	Lap 25 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		42.950366699924366
+		segment time:  			4.649603963600852	total time: 		4196.454915424009
+
+
+	Lap 25 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		42.90021058592436
+		segment time:  			3.0997359757339016	total time: 		4199.554651399743
+
+
+	Lap 25 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		42.64673811555471
+		segment time:  			10.083243970491479	total time: 		4209.637895370235
+
+
+	Lap 25 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		42.58398443030471
+		segment time:  			3.398310369064896	total time: 		4213.0362057393
+
+
+	Lap 25 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		42.24184851148058
+		segment time:  			11.894044663613826	total time: 		4224.930250402914
+
+
+	Lap 25 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		42.17160809592058
+		segment time:  			4.137675205161343	total time: 		4229.067925608075
+
+
+	Lap 25 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		42.11391061171058
+		segment time:  			3.398804632811103	total time: 		4232.466730240886
+
+
+	Lap 25 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		41.74141080380208
+		segment time:  			12.460564266897553	total time: 		4244.927294507784
+
+
+	Lap 25 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		41.673594672952085
+		segment time:  			3.4167471650532892	total time: 		4248.344041672837
+
+
+	Lap 25 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		41.40590763940833
+		segment time:  			10.023873902801293	total time: 		4258.367915575638
+
+
+	Lap 25 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		41.34568283524833
+		segment time:  			3.395590632439488	total time: 		4261.763506208077
+
+
+	Lap 25 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		41.01597714220388
+		segment time:  			11.298167452345158	total time: 		4273.0616736604225
+
+
+	Lap 25 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		40.94309232119388
+		segment time:  			3.44721400368489	total time: 		4276.5088876641075
+
+
+	Lap 25 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		40.647516470498154
+		segment time:  			10.647148555317798	total time: 		4287.156036219425
+
+
+	Lap 25 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		40.59485255079815
+		segment time:  			3.2547227745205967	total time: 		4290.410758993946
+
+
+Lap: 26
+================================================================================
+	Lap 26 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		40.226406375433776
+		segment time:  			12.682041332586325	total time: 		4303.092800326533
+
+
+	Lap 26 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		40.17120030495378
+		segment time:  			3.1126247464028642	total time: 		4306.205425072935
+
+
+	Lap 26 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		39.93296744642891
+		segment time:  			9.86199263261662	total time: 		4316.067417705552
+
+
+	Lap 26 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		39.86277074278891
+		segment time:  			4.574372053292323	total time: 		4320.6417897588435
+
+
+	Lap 26 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		39.81513726531891
+		segment time:  			3.1040381790197906	total time: 		4323.745827937863
+
+
+	Lap 26 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		39.45822519849774
+		segment time:  			12.613867150667698	total time: 		4336.359695088531
+
+
+	Lap 26 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		39.39300195547774
+		segment time:  			3.842126976221247	total time: 		4340.201822064752
+
+
+	Lap 26 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		39.33279588499774
+		segment time:  			3.546578747281151	total time: 		4343.748400812034
+
+
+	Lap 26 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		38.968655377611924
+		segment time:  			9.752477477731365	total time: 		4353.500878289765
+
+
+	Lap 26 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		38.649320121761924
+		segment time:  			9.81494828183648	total time: 		4363.315826571601
+
+
+	Lap 26 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		38.574085950761926
+		segment time:  			4.649603963600852	total time: 		4367.965430535202
+
+
+	Lap 26 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		38.52392983676192
+		segment time:  			3.0997359757339016	total time: 		4371.065166510936
+
+
+	Lap 26 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		38.27045736639227
+		segment time:  			10.083243970491479	total time: 		4381.148410481428
+
+
+	Lap 26 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		38.20770368114227
+		segment time:  			3.398310369064896	total time: 		4384.546720850493
+
+
+	Lap 26 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		37.86556776231814
+		segment time:  			11.894044663613826	total time: 		4396.440765514107
+
+
+	Lap 26 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		37.79532734675814
+		segment time:  			4.137675205161343	total time: 		4400.578440719268
+
+
+	Lap 26 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		37.73762986254814
+		segment time:  			3.398804632811103	total time: 		4403.977245352079
+
+
+	Lap 26 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		37.36513005463964
+		segment time:  			12.460564266897553	total time: 		4416.437809618977
+
+
+	Lap 26 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		37.297313923789645
+		segment time:  			3.4167471650532892	total time: 		4419.85455678403
+
+
+	Lap 26 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		37.02962689024589
+		segment time:  			10.023873902801293	total time: 		4429.878430686831
+
+
+	Lap 26 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		36.96940208608589
+		segment time:  			3.395590632439488	total time: 		4433.27402131927
+
+
+	Lap 26 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		36.63969639304144
+		segment time:  			11.298167452345158	total time: 		4444.572188771615
+
+
+	Lap 26 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		36.56681157203144
+		segment time:  			3.44721400368489	total time: 		4448.0194027753005
+
+
+	Lap 26 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		36.271235721335714
+		segment time:  			10.647148555317798	total time: 		4458.666551330618
+
+
+	Lap 26 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		36.21857180163571
+		segment time:  			3.2547227745205967	total time: 		4461.921274105139
+
+
+Lap: 27
+================================================================================
+	Lap 27 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		35.850125626271335
+		segment time:  			12.682041332586325	total time: 		4474.6033154377255
+
+
+	Lap 27 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		35.79491955579134
+		segment time:  			3.1126247464028642	total time: 		4477.715940184128
+
+
+	Lap 27 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		35.55668669726647
+		segment time:  			9.86199263261662	total time: 		4487.577932816745
+
+
+	Lap 27 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		35.48648999362647
+		segment time:  			4.574372053292323	total time: 		4492.1523048700365
+
+
+	Lap 27 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		35.43885651615647
+		segment time:  			3.1040381790197906	total time: 		4495.256343049056
+
+
+	Lap 27 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		35.0819444493353
+		segment time:  			12.613867150667698	total time: 		4507.870210199724
+
+
+	Lap 27 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		35.0167212063153
+		segment time:  			3.842126976221247	total time: 		4511.712337175945
+
+
+	Lap 27 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		34.9565151358353
+		segment time:  			3.546578747281151	total time: 		4515.258915923227
+
+
+	Lap 27 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		34.592374628449484
+		segment time:  			9.752477477731365	total time: 		4525.011393400958
+
+
+	Lap 27 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		34.273039372599484
+		segment time:  			9.81494828183648	total time: 		4534.826341682794
+
+
+	Lap 27 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		34.197805201599486
+		segment time:  			4.649603963600852	total time: 		4539.475945646395
+
+
+	Lap 27 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		34.14764908759948
+		segment time:  			3.0997359757339016	total time: 		4542.575681622129
+
+
+	Lap 27 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		33.89417661722983
+		segment time:  			10.083243970491479	total time: 		4552.658925592621
+
+
+	Lap 27 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		33.83142293197983
+		segment time:  			3.398310369064896	total time: 		4556.057235961686
+
+
+	Lap 27 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		33.4892870131557
+		segment time:  			11.894044663613826	total time: 		4567.9512806253
+
+
+	Lap 27 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		33.4190465975957
+		segment time:  			4.137675205161343	total time: 		4572.088955830461
+
+
+	Lap 27 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		33.3613491133857
+		segment time:  			3.398804632811103	total time: 		4575.487760463272
+
+
+	Lap 27 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		32.9888493054772
+		segment time:  			12.460564266897553	total time: 		4587.94832473017
+
+
+	Lap 27 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		32.921033174627205
+		segment time:  			3.4167471650532892	total time: 		4591.365071895223
+
+
+	Lap 27 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		32.65334614108345
+		segment time:  			10.023873902801293	total time: 		4601.388945798024
+
+
+	Lap 27 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		32.59312133692345
+		segment time:  			3.395590632439488	total time: 		4604.784536430463
+
+
+	Lap 27 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		32.263415643879
+		segment time:  			11.298167452345158	total time: 		4616.082703882808
+
+
+	Lap 27 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		32.190530822869
+		segment time:  			3.44721400368489	total time: 		4619.529917886493
+
+
+	Lap 27 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		31.894954972173274
+		segment time:  			10.647148555317798	total time: 		4630.177066441811
+
+
+	Lap 27 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		31.842291052473275
+		segment time:  			3.2547227745205967	total time: 		4633.431789216332
+
+
+Lap: 28
+================================================================================
+	Lap 28 Segment: [1] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.36844617536437263
+		fuel remaining: 		31.473844877108903
+		segment time:  			12.682041332586325	total time: 		4646.1138305489185
+
+
+	Lap 28 Segment: [2] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.05520607048000001
+		fuel remaining: 		31.418638806628902
+		segment time:  			3.1126247464028642	total time: 		4649.226455295321
+
+
+	Lap 28 Segment: [3] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.23823285852486464
+		fuel remaining: 		31.18040594810404
+		segment time:  			9.86199263261662	total time: 		4659.0884479279375
+
+
+	Lap 28 Segment: [4] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.07019670364
+		fuel remaining: 		31.110209244464038
+		segment time:  			4.574372053292323	total time: 		4663.662819981229
+
+
+	Lap 28 Segment: [5] corner
+		entry speed				30.605293659757624
+		exit speed: 			30.605293659757624 
+		fuel used: 				0.047633477470000005
+		fuel remaining: 		31.062575766994037
+		segment time:  			3.1040381790197906	total time: 		4666.766858160249
+
+
+	Lap 28 Segment: [6] straight
+		entry speed				30.605293659757624
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3569120668211669
+		fuel remaining: 		30.70566370017287
+		segment time:  			12.613867150667698	total time: 		4679.380725310917
+
+
+	Lap 28 Segment: [7] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06522324302
+		fuel remaining: 		30.64044045715287
+		segment time:  			3.842126976221247	total time: 		4683.222852287138
+
+
+	Lap 28 Segment: [8] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.06020607048
+		fuel remaining: 		30.58023438667287
+		segment time:  			3.546578747281151	total time: 		4686.7694310344195
+
+
+	Lap 28 Segment: [9] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			90.0 
+		fuel used: 				0.3641405073858226
+		fuel remaining: 		30.216093879287047
+		segment time:  			9.752477477731365	total time: 		4696.521908512151
+
+
+	Lap 28 Segment: [10] straight
+		entry speed				90.0
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.31933525585000005
+		fuel remaining: 		29.896758623437048
+		segment time:  			9.81494828183648	total time: 		4706.336856793987
+
+
+	Lap 28 Segment: [11] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.07523417099999999
+		fuel remaining: 		29.821524452437046
+		segment time:  			4.649603963600852	total time: 		4710.986460757588
+
+
+	Lap 28 Segment: [12] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.050156113999999995
+		fuel remaining: 		29.771368338437046
+		segment time:  			3.0997359757339016	total time: 		4714.086196733322
+
+
+	Lap 28 Segment: [13] straight
+		entry speed				32.260812141048156
+		brake point speed: 		90.0
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.2534724703696543
+		fuel remaining: 		29.51789586806739
+		segment time:  			10.083243970491479	total time: 		4724.169440703814
+
+
+	Lap 28 Segment: [14] corner
+		entry speed				36.78298519696302
+		exit speed: 			36.78298519696302 
+		fuel used: 				0.06275368525
+		fuel remaining: 		29.45514218281739
+		segment time:  			3.398310369064896	total time: 		4727.567751072879
+
+
+	Lap 28 Segment: [15] straight
+		entry speed				36.78298519696302
+		brake point speed: 		90.0
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.3421359188241273
+		fuel remaining: 		29.113006263993263
+		segment time:  			11.894044663613826	total time: 		4739.461795736493
+
+
+	Lap 28 Segment: [16] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.07024041556
+		fuel remaining: 		29.042765848433262
+		segment time:  			4.137675205161343	total time: 		4743.599470941654
+
+
+	Lap 28 Segment: [17] corner
+		entry speed				33.83542522268635
+		exit speed: 			33.83542522268635 
+		fuel used: 				0.057697484210000004
+		fuel remaining: 		28.985068364223263
+		segment time:  			3.398804632811103	total time: 		4746.998275574465
+
+
+	Lap 28 Segment: [18] straight
+		entry speed				33.83542522268635
+		brake point speed: 		90.0
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.3724998079084984
+		fuel remaining: 		28.612568556314766
+		segment time:  			12.460564266897553	total time: 		4759.4588398413625
+
+
+	Lap 28 Segment: [19] corner
+		entry speed				39.51126421667624
+		exit speed: 			39.51126421667624 
+		fuel used: 				0.06781613085
+		fuel remaining: 		28.544752425464765
+		segment time:  			3.4167471650532892	total time: 		4762.875587006416
+
+
+	Lap 28 Segment: [20] straight
+		entry speed				39.51126421667624
+		brake point speed: 		90.0
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.26768703354374923
+		fuel remaining: 		28.277065391921017
+		segment time:  			10.023873902801293	total time: 		4772.899460909217
+
+
+	Lap 28 Segment: [21] corner
+		entry speed				35.33994906617722
+		exit speed: 			35.33994906617722 
+		fuel used: 				0.060224804160000006
+		fuel remaining: 		28.216840587761016
+		segment time:  			3.395590632439488	total time: 		4776.295051541656
+
+
+	Lap 28 Segment: [22] straight
+		entry speed				35.33994906617722
+		brake point speed: 		90.0
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.3297056930444544
+		fuel remaining: 		27.88713489471656
+		segment time:  			11.298167452345158	total time: 		4787.593218994001
+
+
+	Lap 28 Segment: [23] corner
+		entry speed				42.06295282074239
+		exit speed: 			42.06295282074239 
+		fuel used: 				0.07288482101
+		fuel remaining: 		27.81425007370656
+		segment time:  			3.44721400368489	total time: 		4791.040432997686
+
+
+	Lap 28 Segment: [24] straight
+		entry speed				42.06295282074239
+		brake point speed: 		90.0
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.29557585069572845
+		fuel remaining: 		27.518674223010834
+		segment time:  			10.647148555317798	total time: 		4801.687581553004
+
+
+	Lap 28 Segment: [25] corner
+		entry speed				32.260812141048156
+		exit speed: 			32.260812141048156 
+		fuel used: 				0.0526639197
+		fuel remaining: 		27.466010303310835
+		segment time:  			3.2547227745205967	total time: 		4804.942304327525
+
+
+	Entering pit lane
+	Warning: Requested 147.26L but tank only had space for 122.53398969668916L (tank size: 150.0L)
+FATAL ERROR: Invalid Tyre Selection: tyre with id None was not provided in available sets.
+Traceback (most recent call last):
+  File "/var/task/hackathons/2026/company_2026/solver.py", line 354, in score
+    return int(math.ceil(self.calculate_score(validated_submission))), f"{os.linesep}".join(self.logger)
+  File "/var/task/hackathons/2026/company_2026/solver.py", line 332, in calculate_score
+    return self._calculate_level_2(submission)
+  File "/var/task/hackathons/2026/company_2026/solver.py", line 296, in _calculate_level_2
+    race_time = self.game_loop(submission)
+  File "/var/task/hackathons/2026/company_2026/solver.py", line 267, in game_loop
+    current_tyre = self.tyre_selection.select_tyre(tyre_id)
+  File "/var/task/hackathons/2026/company_2026/utilities/tyre_degradation/tyre_degradation.py", line 193, in select_tyre
+    raise ValueError(
+ValueError: Invalid Tyre Selection: tyre with id None was not provided in available sets.
