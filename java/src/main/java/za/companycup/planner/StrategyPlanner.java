@@ -9,9 +9,46 @@ import java.util.Locale;
 import java.util.Map;
 
 public final class StrategyPlanner {
+
+    // =========================================================================
+    // STRATEGY TUNING — tweak these to explore different strategies
+    // =========================================================================
+
+    /**
+     * Fraction of the car's max speed to target on every straight.
+     *   Min: 0.1  → very slow, saves fuel, terrible race time
+     *   Max: 1.0  → full speed, fastest lap, highest fuel consumption  (default)
+     */
+    private static final double STRAIGHT_SPEED_FRACTION = 1.0;
+
+    /**
+     * Multiplier applied to the fuel-per-lap estimate when planning pit laps.
+     * A higher value makes the planner more conservative (pits earlier / more often).
+     *   Min: 1.0  → no safety margin — may run dry if the estimate is slightly off
+     *   Max: 1.5  → 50 % over-estimate — very safe, but forces extra pit stops
+     */
+    private static final double FUEL_ESTIMATE_MULTIPLIER = 1.05;
+
+    /**
+     * Pit when the fuel remaining falls below this many laps-worth of fuel.
+     * Increase to pit earlier and carry a larger safety buffer.
+     *   Min: 0.0  → pit only when the tank is truly empty (dangerous)
+     *   Max: 5.0  → pit very early, many stops, slower overall race
+     */
+    private static final double FUEL_RESERVE_LAPS = 1.0;
+
+    // =========================================================================
+    // PHYSICS & SPEC CONSTANTS — defined by the problem specification; do not change
+    // =========================================================================
+
+    /** Gravitational constant (m/s²). Fixed: 9.8 */
     private static final double GRAVITY = 9.8;
-    private static final double K_BASE = 0.0005;       // l/m base fuel consumption
-    private static final double K_DRAG = 0.0000000015; // l/m drag fuel consumption
+
+    /** Base fuel consumption rate (l/m). Fixed by spec: 0.0005 */
+    private static final double K_BASE  = 0.0005;
+
+    /** Speed-dependent (drag) fuel consumption (l/m per (m/s)²). Fixed by spec: 0.0000000015 */
+    private static final double K_DRAG  = 0.0000000015;
 
     private StrategyPlanner() {
     }
@@ -55,7 +92,7 @@ public final class StrategyPlanner {
                             segment.length,
                             input.car.accel,
                             input.car.brake,
-                            input.car.maxSpeed
+                            input.car.maxSpeed * STRAIGHT_SPEED_FRACTION
                     );
                     action.targetSpeed = round2(straightPlan.targetSpeed);
                     action.brakeStartBeforeNext = Math.max(0.0, straightPlan.brakeDistance);
@@ -170,8 +207,8 @@ public final class StrategyPlanner {
 
         for (int lap = 1; lap <= totalLaps; lap++) {
             fuel -= fuelPerLap;
-            // Pit if we won't have enough for the next lap and there are laps remaining
-            if (fuel < fuelPerLap && lap < totalLaps) {
+            // Pit if reserve falls below FUEL_RESERVE_LAPS and there are laps remaining
+            if (fuel < fuelPerLap * FUEL_RESERVE_LAPS && lap < totalLaps) {
                 pitLaps.add(lap);
                 // Simulate refuel to full (conservative — actual may differ)
                 fuel = tankCapacity;

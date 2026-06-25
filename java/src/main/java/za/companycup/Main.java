@@ -6,8 +6,12 @@ import za.companycup.model.InputModels;
 import za.companycup.model.OutputModels;
 import za.companycup.planner.StrategyPlanner;
 
+import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.StandardOpenOption;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipOutputStream;
 
 public final class Main {
     private Main() {
@@ -26,16 +30,15 @@ public final class Main {
 
         Path inputPath;
         if (inputArg.matches("\\d+")) {
-            // Copy bundled resource to a temp file so ObjectMapper can read it
             String resource = "/level/" + inputArg + ".txt";
-            try (java.io.InputStream is = Main.class.getResourceAsStream(resource)) {
+            try (InputStream is = Main.class.getResourceAsStream(resource)) {
                 if (is == null) {
                     System.err.println("Bundled resource not found: " + resource);
                     System.exit(1);
                 }
-                inputPath = java.nio.file.Files.createTempFile("level" + inputArg, ".json");
+                inputPath = Files.createTempFile("level" + inputArg, ".json");
                 inputPath.toFile().deleteOnExit();
-                java.nio.file.Files.write(inputPath, is.readAllBytes());
+                Files.write(inputPath, is.readAllBytes());
             }
         } else {
             inputPath = Path.of(inputArg);
@@ -51,6 +54,49 @@ public final class Main {
             Files.createDirectories(outputPath.getParent());
         }
         mapper.writeValue(outputPath.toFile(), submission);
+        System.out.println("Submission written to: " + outputPath.toAbsolutePath());
+
+        // Always regenerate the source zip so it reflects the latest code.
+        Path projectRoot = Path.of(".").toAbsolutePath().normalize();
+        Path zipPath = zipSourceForSubmission(projectRoot);
+        System.out.println("Submission zip updated:  " + zipPath);
+    }
+
+    /**
+     * Zips the entire project source tree (excluding the {@code target/} build directory)
+     * into {@code submission_source.zip} placed one level above the project root.
+     * The previous zip is silently replaced.
+     *
+     * @param projectRoot  absolute path to the java project folder
+     * @return             path of the written zip file
+     */
+    private static Path zipSourceForSubmission(Path projectRoot) throws Exception {
+        // Place the zip next to the java/ folder so it is easy to find for submission.
+        Path zipPath = projectRoot.getParent().resolve("submission_source.zip");
+
+        try (ZipOutputStream zos = new ZipOutputStream(
+                Files.newOutputStream(zipPath, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING));
+             var walk = Files.walk(projectRoot)) {
+
+            walk.filter(p -> {
+                        Path rel = projectRoot.relativize(p);
+                        String first = rel.getName(0).toString();
+                        // Exclude target/ and any hidden dot-directories at the root level.
+                        return !first.equals("target") && !first.startsWith(".");
+                    })
+                    .filter(Files::isRegularFile)
+                    .forEach(file -> {
+                        // Entry path always uses forward slashes and is rooted at "java/"
+                        String entry = "java/" + projectRoot.relativize(file).toString().replace('\\', '/');
+                        try {
+                            zos.putNextEntry(new ZipEntry(entry));
+                            Files.copy(file, zos);
+                            zos.closeEntry();
+                        } catch (Exception e) {
+                            throw new RuntimeException("Failed to zip " + file, e);
+                        }
+                    });
+        }
+        return zipPath;
     }
 }
-
