@@ -70,7 +70,7 @@ const GRAVITY = 9.8;
 const K_DRAG = 0.0000000015;
 
 const USE_CRAWL_CORNER_BONUS = false;
-const CORNER_SPEED_SAFETY = 0.1;
+const CORNER_SPEED_SAFETY = 0.02;
 
 /**
  * Half-window (s) around a corner's estimated arrival time over which we take
@@ -78,11 +78,11 @@ const CORNER_SPEED_SAFETY = 0.1;
  * time and the simulator's actual time so that timing drift near a weather
  * change can never make us enter a corner too fast.
  */
-const CORNER_WEATHER_HALF_WINDOW_S = 60;
+const CORNER_WEATHER_HALF_WINDOW_S = 10;
 
-const STINT_FUEL_RESERVE = 8;
-const FINISH_FUEL_RESERVE = 5;
-const FUEL_SAFETY_FACTOR = 1.05;
+const STINT_FUEL_RESERVE = 1;
+const FINISH_FUEL_RESERVE = 0.5;
+const FUEL_SAFETY_FACTOR = 1.015;
 
 const COND_FRICTION_KEY: Record<string, keyof TyreProperties> = {
   dry: "dry_friction_multiplier",
@@ -159,15 +159,6 @@ function worstFrictionAround(center: number, half: number, schedule: Schedule, s
   let worst = Number.POSITIVE_INFINITY;
   for (let s = -half; s <= half + 1e-9; s += half / 2) {
     worst = Math.min(worst, frictionInCondition(soft, weatherAt(center + s, schedule).condition));
-  }
-  return worst;
-}
-
-/** Worst (lowest) deceleration multiplier over [start, start+window] — brake early to stay safe. */
-function worstDecelMult(start: number, window: number, schedule: Schedule): number {
-  let worst = Number.POSITIVE_INFINITY;
-  for (let s = 0; s <= window + 1e-9; s += window / 4) {
-    worst = Math.min(worst, weatherAt(start + s, schedule).deceleration_multiplier);
   }
   return worst;
 }
@@ -258,13 +249,13 @@ function buildStrategy(level: LevelFile): { output: unknown; summary: string } {
           exitSpeed = cornerChainExitSpeed(i, arrivalEst);
         }
 
-        // brake point: worst-case decel over the run-up so we brake early enough
-        const decelSafe = baseBrake * worstDecelMult(time, seg.length_m / 40 + 45, schedule);
-        const decelTime = baseBrake * wEntry.deceleration_multiplier; // for accurate timing
+        // Simulator uses weather sampled at segment entry for the whole segment.
+        // Match that model directly to avoid unnecessary early braking.
+        const decelTime = baseBrake * wEntry.deceleration_multiplier;
 
-        const cruise = floor2(Math.max(peakSpeed(speed, exitSpeed, seg.length_m, accelEff, decelSafe, maxSpeed), exitSpeed));
+        const cruise = floor2(Math.max(peakSpeed(speed, exitSpeed, seg.length_m, accelEff, decelTime, maxSpeed), exitSpeed));
         const brakeFrom = Math.max(cruise, speed);
-        const rawBrake = brakeFrom > exitSpeed ? (brakeFrom ** 2 - exitSpeed ** 2) / (2 * decelSafe) : 0;
+        const rawBrake = brakeFrom > exitSpeed ? (brakeFrom ** 2 - exitSpeed ** 2) / (2 * decelTime) : 0;
         const brakeStart = Math.min(seg.length_m, ceil2(rawBrake));
 
         const accelDist = Math.max(0, seg.length_m - brakeStart);
